@@ -1,0 +1,26 @@
+{
+ "SWaT": {
+  "dataset": "SWaT",
+  "n_test_windows": 5000,
+  "full_K": 8,
+  "train_K": 8,
+  "hungarian_agreement": 0.404,
+  "adjusted_rand_index": 0.022
+ },
+ "SMD": {
+  "dataset": "SMD",
+  "n_test_windows": 5000,
+  "full_K": 8,
+  "train_K": 5,
+  "hungarian_agreement": 0.677,
+  "adjusted_rand_index": 0.338
+ },
+ "MetroPT3": {
+  "dataset": "MetroPT3",
+  "n_test_windows": 5000,
+  "full_K": 8,
+  "train_K": 8,
+  "hungarian_agreement": 0.563,
+  "adjusted_rand_index": 0.411
+ }
+}

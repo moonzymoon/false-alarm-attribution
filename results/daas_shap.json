@@ -1,0 +1,35 @@
+{
+ "n_pairs": 17,
+ "methods": [
+  "AERec",
+  "CondAttr",
+  "GlobalCF",
+  "Grad",
+  "Granger",
+  "RC-CA",
+  "RegimeGlobal",
+  "SHAP",
+  "zDev"
+ ],
+ "strict": 8,
+ "tolerant": 12,
+ "strict_frac": 0.47058823529411764,
+ "tolerant_frac": 0.7058823529411765,
+ "family_strict": 9,
+ "family_tolerant": 13,
+ "family_strict_frac": 0.5294117647058824,
+ "family_tolerant_frac": 0.7647058823529411,
+ "best_fixed": "Grad",
+ "best_fixed_mean": 0.81345,
+ "fixed_means": {
+  "Granger": 0.030876470588235297,
+  "SHAP": 0.42368240369849985,
+  "GlobalCF": 0.7107117647058823,
+  "zDev": 0.4462470588235294,
+  "RegimeGlobal": 0.6897266666666667,
+  "Grad": 0.81345,
+  "CondAttr": 0.7477647058823529,
+  "AERec": 0.7282235294117647,
+  "RC-CA": 0.714070588235294
+ }
+}

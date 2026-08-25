@@ -1,0 +1,119 @@
+{
+ "SWaT": {
+  "channels": 51,
+  "windows": 100,
+  "RC-CA": {
+   "sec_per_100win": 0.423,
+   "ms_per_window": 4.23,
+   "scorer_calls_per_window": 53
+  },
+  "GlobalCF": {
+   "sec_per_100win": 0.106,
+   "ms_per_window": 1.06,
+   "scorer_calls_per_window": 52
+  },
+  "CondAttr": {
+   "sec_per_100win": 0.306,
+   "ms_per_window": 3.06,
+   "scorer_calls_per_window": 52
+  },
+  "AERec": {
+   "sec_per_100win": 0.002,
+   "ms_per_window": 0.02,
+   "scorer_calls_per_window": 1
+  },
+  "Granger": {
+   "sec_per_100win": 0.07,
+   "ms_per_window": 0.7,
+   "scorer_calls_per_window": 1
+  },
+  "zDev": {
+   "sec_per_100win": 0.702,
+   "ms_per_window": 7.02,
+   "scorer_calls_per_window": 0
+  },
+  "Random": {
+   "sec_per_100win": 0.0,
+   "ms_per_window": 0.0,
+   "scorer_calls_per_window": 0
+  }
+ },
+ "SMD": {
+  "channels": 38,
+  "windows": 100,
+  "RC-CA": {
+   "sec_per_100win": 0.344,
+   "ms_per_window": 3.44,
+   "scorer_calls_per_window": 40
+  },
+  "GlobalCF": {
+   "sec_per_100win": 0.06,
+   "ms_per_window": 0.6,
+   "scorer_calls_per_window": 39
+  },
+  "CondAttr": {
+   "sec_per_100win": 0.204,
+   "ms_per_window": 2.04,
+   "scorer_calls_per_window": 39
+  },
+  "AERec": {
+   "sec_per_100win": 0.0,
+   "ms_per_window": 0.0,
+   "scorer_calls_per_window": 1
+  },
+  "Granger": {
+   "sec_per_100win": 0.013,
+   "ms_per_window": 0.13,
+   "scorer_calls_per_window": 1
+  },
+  "zDev": {
+   "sec_per_100win": 0.154,
+   "ms_per_window": 1.54,
+   "scorer_calls_per_window": 0
+  },
+  "Random": {
+   "sec_per_100win": 0.0,
+   "ms_per_window": 0.0,
+   "scorer_calls_per_window": 0
+  }
+ },
+ "MetroPT3": {
+  "channels": 15,
+  "windows": 100,
+  "RC-CA": {
+   "sec_per_100win": 3.337,
+   "ms_per_window": 33.37,
+   "scorer_calls_per_window": 17
+  },
+  "GlobalCF": {
+   "sec_per_100win": 0.019,
+   "ms_per_window": 0.19,
+   "scorer_calls_per_window": 16
+  },
+  "CondAttr": {
+   "sec_per_100win": 0.42,
+   "ms_per_window": 4.2,
+   "scorer_calls_per_window": 16
+  },
+  "AERec": {
+   "sec_per_100win": 0.0,
+   "ms_per_window": 0.0,
+   "scorer_calls_per_window": 1
+  },
+  "Granger": {
+   "sec_per_100win": 0.003,
+   "ms_per_window": 0.03,
+   "scorer_calls_per_window": 1
+  },
+  "zDev": {
+   "sec_per_100win": 0.393,
+   "ms_per_window": 3.93,
+   "scorer_calls_per_window": 0
+  },
+  "Random": {
+   "sec_per_100win": 0.0,
+   "ms_per_window": 0.0,
+   "scorer_calls_per_window": 0
+  }
+ }
+}

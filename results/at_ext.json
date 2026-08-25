@@ -1,0 +1,49 @@
+{
+ "AT_SMAP_var": {
+  "RC-CA": {
+   "layer1_macro_f1": 0.5,
+   "n_test": 272,
+   "layer2_top1": 0.7977941176470589
+  },
+  "GlobalCF": {
+   "layer1_macro_f1": 0.48582230623818523,
+   "n_test": 272,
+   "layer2_top1": 0.9522058823529411
+  },
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.47692307692307695,
+   "n_test": 272,
+   "layer2_top1": 0.875
+  },
+  "CondAttr": {
+   "layer1_macro_f1": 0.487758945386064,
+   "n_test": 272,
+   "layer2_top1": 0.9705882352941176
+  },
+  "AERec": {
+   "layer1_macro_f1": 0.4990791896869245,
+   "n_test": 272,
+   "layer2_top1": 0.9522058823529411
+  },
+  "Granger": {
+   "layer1_macro_f1": 0.4896810506566604,
+   "n_test": 272,
+   "layer2_top1": 0.0
+  },
+  "zDev": {
+   "layer1_macro_f1": 0.4981549815498155,
+   "n_test": 272,
+   "layer2_top1": 0.9705882352941176
+  },
+  "Random": {
+   "layer1_macro_f1": 0.49063670411985016,
+   "n_test": 272,
+   "layer2_top1": 0.029411764705882353
+  },
+  "SHAP": {
+   "layer1_macro_f1": 0.48582230623818523,
+   "n_test": 272,
+   "layer2_top1": 0.5845588235294118
+  }
+ }
+}

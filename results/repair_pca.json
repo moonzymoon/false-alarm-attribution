@@ -1,0 +1,128 @@
+[
+ {
+  "dataset": "SWaT",
+  "regime": 1,
+  "n_eval": 60000,
+  "n_flagged": 167,
+  "far": {
+   "base": 0.25245,
+   "guided": 0.11435,
+   "targeted": 0.09446666666666667,
+   "random": 0.13981666666666667
+  },
+  "gap_targeted_pp": 4.535,
+  "gap_guided_pp": 2.5466666666666664
+ },
+ {
+  "dataset": "SWaT",
+  "regime": 5,
+  "n_eval": 11437,
+  "n_flagged": 58,
+  "far": {
+   "base": 0.006819970271924456,
+   "guided": 0.0022733234239748186,
+   "targeted": 0.0001748710326134476,
+   "random": 0.0024481944565882662
+  },
+  "gap_targeted_pp": 0.22733234239748187,
+  "gap_guided_pp": 0.01748710326134476
+ },
+ {
+  "dataset": "SWaT",
+  "regime": 6,
+  "n_eval": 24907,
+  "n_flagged": 186,
+  "far": {
+   "base": 0.9670373790500663,
+   "guided": 0.9818123419119124,
+   "targeted": 0.9659131970931867,
+   "random": 0.9235154775765849
+  },
+  "gap_targeted_pp": -4.239771951660176,
+  "gap_guided_pp": -5.829686433532744
+ },
+ {
+  "dataset": "SWaT",
+  "regime": 7,
+  "n_eval": 819,
+  "n_flagged": 193,
+  "far": {
+   "base": 0.9841269841269841,
+   "guided": 0.6825396825396826,
+   "targeted": 0.3431013431013431,
+   "random": 0.9829059829059829
+  },
+  "gap_targeted_pp": 63.98046398046397,
+  "gap_guided_pp": 30.03663003663003
+ },
+ {
+  "dataset": "SMD",
+  "regime": 0,
+  "n_eval": 4794,
+  "n_flagged": 194,
+  "far": {
+   "base": 0.08635794743429287,
+   "guided": 0.017521902377972465,
+   "targeted": 0.017939090529828953,
+   "random": 0.03650396328744264
+  },
+  "gap_targeted_pp": 1.856487275761369,
+  "gap_guided_pp": 1.8982060909470175
+ },
+ {
+  "dataset": "SMD",
+  "regime": 2,
+  "n_eval": 4912,
+  "n_flagged": 197,
+  "far": {
+   "base": 0.9735342019543974,
+   "guided": 0.815757328990228,
+   "targeted": 0.9372964169381107,
+   "random": 0.8293973941368078
+  },
+  "gap_targeted_pp": -10.789902280130292,
+  "gap_guided_pp": 1.3640065146579783
+ },
+ {
+  "dataset": "SMD",
+  "regime": 3,
+  "n_eval": 299,
+  "n_flagged": 129,
+  "far": {
+   "base": 0.8996655518394648,
+   "guided": 0.0,
+   "targeted": 0.0,
+   "random": 0.0
+  },
+  "gap_targeted_pp": 0.0,
+  "gap_guided_pp": 0.0
+ },
+ {
+  "dataset": "SMD",
+  "regime": 6,
+  "n_eval": 12620,
+  "n_flagged": 215,
+  "far": {
+   "base": 0.4543581616481775,
+   "guided": 0.06141045958795563,
+   "targeted": 0.04540412044374009,
+   "random": 0.10253565768621237
+  },
+  "gap_targeted_pp": 5.713153724247228,
+  "gap_guided_pp": 4.1125198098256766
+ },
+ {
+  "dataset": "SMD",
+  "regime": 7,
+  "n_eval": 425,
+  "n_flagged": 179,
+  "far": {
+   "base": 1.0,
+   "guided": 0.9952941176470588,
+   "targeted": 0.9529411764705882,
+   "random": 1.0
+  },
+  "gap_targeted_pp": 4.705882352941182,
+  "gap_guided_pp": 0.47058823529412264
+ }
+]

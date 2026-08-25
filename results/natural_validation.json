@@ -1,0 +1,47 @@
+{
+ "verdict_frac": {
+  "iforest_SWaT": {
+   "RC-CA": 0.0,
+   "GlobalCF": 0.1775,
+   "CondAttr": 0.5525,
+   "AERec": 0.59,
+   "zDev": 0.045
+  },
+  "iforest_SMD": {
+   "RC-CA": 0.005,
+   "GlobalCF": 0.1925,
+   "CondAttr": 0.0525,
+   "AERec": 0.5575,
+   "zDev": 0.53
+  },
+  "iforest_MetroPT3": {
+   "RC-CA": 0.07,
+   "GlobalCF": 0.1175,
+   "CondAttr": 0.26,
+   "AERec": 0.255,
+   "zDev": 0.15
+  }
+ },
+ "agreement": {
+  "iforest_SWaT": {
+   "mean_pairwise": 0.595,
+   "min": 0.41,
+   "max": 0.955
+  },
+  "iforest_SMD": {
+   "mean_pairwise": 0.579,
+   "min": 0.44,
+   "max": 0.9425
+  },
+  "iforest_MetroPT3": {
+   "mean_pairwise": 0.7145000000000001,
+   "min": 0.545,
+   "max": 0.8125
+  }
+ },
+ "shift": {
+  "iforest_SWaT": 0.033214458119088186,
+  "iforest_SMD": 0.23281306772538124,
+  "iforest_MetroPT3": 0.060215541430183483
+ }
+}

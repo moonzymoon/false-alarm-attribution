@@ -1,0 +1,156 @@
+[
+ {
+  "dataset": "SWaT",
+  "regime": 1,
+  "n_var": 790,
+  "far_base": 0.12303686223451868,
+  "far_targeted": 0.1529687796674533,
+  "far_random": 0.14917134564786938,
+  "drop_targeted": -0.029931917432934607,
+  "drop_random": -0.0261344834133507,
+  "gap_pp": -0.3797434019583906
+ },
+ {
+  "dataset": "SWaT",
+  "regime": 2,
+  "n_var": 4249,
+  "far_base": 0.11441290397178701,
+  "far_targeted": 0.02509105625252934,
+  "far_random": 0.3742267445221715,
+  "drop_targeted": 0.08932184771925766,
+  "drop_random": -0.2598138405503845,
+  "gap_pp": 34.913568826964216
+ },
+ {
+  "dataset": "SWaT",
+  "regime": 5,
+  "n_var": 4229,
+  "far_base": 0.9364594894561599,
+  "far_targeted": 0.32672031076581576,
+  "far_random": 0.8670921198668147,
+  "drop_targeted": 0.6097391786903441,
+  "drop_random": 0.0693673695893452,
+  "gap_pp": 54.03718091009989
+ },
+ {
+  "dataset": "SWaT",
+  "regime": 6,
+  "n_var": 3701,
+  "far_base": 0.4727907196076582,
+  "far_targeted": 0.6517495048571159,
+  "far_random": 0.5434311044044139,
+  "drop_targeted": -0.17895878524945769,
+  "drop_random": -0.07064038479675566,
+  "gap_pp": -10.831840045270202
+ },
+ {
+  "dataset": "SMD",
+  "regime": 0,
+  "n_var": 549,
+  "far_base": 0.00023557126030624264,
+  "far_targeted": 0.0007067137809187279,
+  "far_random": 0.006595995288574794,
+  "drop_targeted": -0.0004711425206124852,
+  "drop_random": -0.0063604240282685515,
+  "gap_pp": 0.5889281507656066
+ },
+ {
+  "dataset": "SMD",
+  "regime": 1,
+  "n_var": 724,
+  "far_base": 0.6134868421052632,
+  "far_targeted": 0.0712719298245614,
+  "far_random": 0.7631578947368421,
+  "drop_targeted": 0.5422149122807017,
+  "drop_random": -0.14967105263157898,
+  "gap_pp": 69.18859649122807
+ },
+ {
+  "dataset": "SMD",
+  "regime": 2,
+  "n_var": 802,
+  "far_base": 0.7257907542579075,
+  "far_targeted": 0.7627737226277372,
+  "far_random": 0.743065693430657,
+  "drop_targeted": -0.03698296836982973,
+  "drop_random": -0.01727493917274947,
+  "gap_pp": -1.9708029197080257
+ },
+ {
+  "dataset": "SMD",
+  "regime": 6,
+  "n_var": 510,
+  "far_base": 0.07563996696944673,
+  "far_targeted": 0.08109000825763832,
+  "far_random": 0.09942196531791908,
+  "drop_targeted": -0.005450041288191584,
+  "drop_random": -0.023781998348472347,
+  "gap_pp": 1.8331957060280764
+ },
+ {
+  "dataset": "MetroPT3",
+  "regime": 0,
+  "n_var": 20000,
+  "far_base": 0.0,
+  "far_targeted": 0.0,
+  "far_random": 0.0,
+  "drop_targeted": 0.0,
+  "drop_random": 0.0,
+  "gap_pp": 0.0
+ },
+ {
+  "dataset": "MetroPT3",
+  "regime": 2,
+  "n_var": 20000,
+  "far_base": 0.0,
+  "far_targeted": 0.0,
+  "far_random": 0.0,
+  "drop_targeted": 0.0,
+  "drop_random": 0.0,
+  "gap_pp": 0.0
+ },
+ {
+  "dataset": "MetroPT3",
+  "regime": 3,
+  "n_var": 20000,
+  "far_base": 0.6225558659217877,
+  "far_targeted": 0.0,
+  "far_random": 0.6217993482309124,
+  "drop_targeted": 0.6225558659217877,
+  "drop_random": 0.000756517690875258,
+  "gap_pp": 62.179934823091244
+ },
+ {
+  "dataset": "MetroPT3",
+  "regime": 4,
+  "n_var": 20000,
+  "far_base": 0.32210490816644183,
+  "far_targeted": 0.0047343571650928715,
+  "far_random": 0.16698012867074816,
+  "drop_targeted": 0.317370551001349,
+  "drop_random": 0.15512477949569367,
+  "gap_pp": 16.22457715056553
+ },
+ {
+  "dataset": "MetroPT3",
+  "regime": 6,
+  "n_var": 20000,
+  "far_base": 0.6409761675063422,
+  "far_targeted": 0.3160753206846036,
+  "far_random": 0.6091756887126166,
+  "drop_targeted": 0.32490084682173864,
+  "drop_random": 0.031800478793725606,
+  "gap_pp": 29.310036802801303
+ },
+ {
+  "dataset": "MetroPT3",
+  "regime": 7,
+  "n_var": 20000,
+  "far_base": 0.0858191298719933,
+  "far_targeted": 0.1822225478613144,
+  "far_random": 0.07690475972414298,
+  "drop_targeted": -0.09640341798932109,
+  "drop_random": 0.00891437014785032,
+  "gap_pp": -10.53177881371714
+ }
+]

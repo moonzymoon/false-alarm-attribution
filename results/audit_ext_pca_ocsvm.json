@@ -1,0 +1,14 @@
+{
+ "pca_SWaT": {
+  "a1_median_shift_over_std": 0.005591824650764465,
+  "a4_monotone_frac": 1.0,
+  "n_windows": 300,
+  "n_steps": 8
+ },
+ "ocsvm_SWaT": {
+  "a1_median_shift_over_std": 0.0013365920764067452,
+  "a4_monotone_frac": 0.9733333333333334,
+  "n_windows": 300,
+  "n_steps": 8
+ }
+}

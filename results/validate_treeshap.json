@@ -1,0 +1,24 @@
+{
+ "per_unit": [
+  {
+   "unit": "iforest_SWaT_mix_regime1",
+   "n_windows": 556,
+   "spearman_mean": 0.4497949005520467,
+   "spearman_median": 0.43519309416985374,
+   "top1_agree_with_GlobalCF": 0.6205035971223022,
+   "top1_hit_gt_shap": 0.5769230769230769,
+   "top1_hit_gt_globalcf": 0.5641025641025641
+  },
+  {
+   "unit": "iforest_SWaT_mix_regime5",
+   "n_windows": 539,
+   "spearman_mean": 0.31613326836305583,
+   "spearman_median": 0.2855581288647654,
+   "top1_agree_with_GlobalCF": 0.4267161410018553,
+   "top1_hit_gt_shap": 0.2517985611510791,
+   "top1_hit_gt_globalcf": 0.28776978417266186
+  }
+ ],
+ "spearman_median_overall": 0.36037561151730957,
+ "top1_agree_overall": 0.5236098690620787
+}

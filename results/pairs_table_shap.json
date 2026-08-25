@@ -1,0 +1,167 @@
+{
+ "iforest/SWaT": {
+  "RC-CA": 0.3495,
+  "GlobalCF": 0.2963,
+  "RegimeGlobal": 0.3154,
+  "CondAttr": 0.4292,
+  "AERec": 0.81,
+  "Granger": 0.0013,
+  "zDev": 0.1302,
+  "Random": 0.0239,
+  "SHAP": 0.2298
+ },
+ "iforest/SMD": {
+  "RC-CA": 0.3944,
+  "GlobalCF": 0.418,
+  "RegimeGlobal": 0.3461,
+  "CondAttr": 0.5453,
+  "AERec": 0.4924,
+  "Granger": 0.0,
+  "zDev": 0.0608,
+  "Random": 0.0327,
+  "SHAP": 0.3468
+ },
+ "iforest/MetroPT3": {
+  "RC-CA": 0.4714,
+  "GlobalCF": 0.426,
+  "RegimeGlobal": 0.4819,
+  "CondAttr": 0.4066,
+  "AERec": 0.7179,
+  "Granger": 0.0,
+  "zDev": 0.267,
+  "Random": 0.0854,
+  "SHAP": 0.2673
+ },
+ "iforest/PSM": {
+  "RC-CA": 0.2032,
+  "GlobalCF": 0.2587,
+  "RegimeGlobal": 0.2622,
+  "CondAttr": 0.3338,
+  "AERec": 0.701,
+  "Granger": 0.0717,
+  "zDev": 0.6461,
+  "Random": 0.0422,
+  "SHAP": 0.3077
+ },
+ "iforest/SMAP": {
+  "RC-CA": 0.907,
+  "GlobalCF": 0.9616,
+  "RegimeGlobal": 0.9342,
+  "CondAttr": 0.8922,
+  "AERec": 0.9867,
+  "Granger": 0.1504,
+  "zDev": 0.9889,
+  "Random": 0.0725,
+  "SHAP": 0.9668
+ },
+ "cmhmil/SWaT": {
+  "RC-CA": 0.5385,
+  "GlobalCF": 0.5043,
+  "RegimeGlobal": 0.3932,
+  "CondAttr": 0.7436,
+  "AERec": 0.7949,
+  "Grad": 0.453,
+  "Granger": 0.0,
+  "zDev": 0.5983,
+  "Random": 0.0085,
+  "SHAP": 0.2393
+ },
+ "cmhmil/SMD": {
+  "RC-CA": 0.9078,
+  "GlobalCF": 0.8894,
+  "RegimeGlobal": 0.8848,
+  "CondAttr": 0.9493,
+  "AERec": 0.8664,
+  "Grad": 0.8387,
+  "Granger": 0.0,
+  "zDev": 0.1521,
+  "Random": 0.0415,
+  "SHAP": 0.8387
+ },
+ "AT/SWaT": {
+  "RC-CA": 0.9275,
+  "GlobalCF": 0.9275,
+  "RegimeGlobal": 0.913,
+  "CondAttr": 0.9227,
+  "AERec": 0.0386,
+  "Granger": 0.0386,
+  "zDev": 0.6039,
+  "Random": 0.0193
+ },
+ "AT/SMD": {
+  "RC-CA": 0.439,
+  "GlobalCF": 0.4715,
+  "RegimeGlobal": 0.4634,
+  "CondAttr": 0.4472,
+  "AERec": 0.4553,
+  "Granger": 0.0,
+  "zDev": 0.0,
+  "Random": 0.0163
+ },
+ "pca/SWaT": {
+  "RC-CA": 0.9698,
+  "GlobalCF": 0.8588,
+  "CondAttr": 0.9045,
+  "AERec": 0.7983,
+  "Granger": 0.0,
+  "zDev": 0.4494,
+  "Random": 0.0045,
+  "SHAP": 0.6725
+ },
+ "ocsvm/SWaT": {
+  "RC-CA": 0.9755,
+  "GlobalCF": 0.8725,
+  "CondAttr": 0.9051,
+  "AERec": 0.9758,
+  "Granger": 0.0,
+  "zDev": 0.5219,
+  "Random": 0.0194,
+  "SHAP": 0.9126
+ },
+ "pca/SMD": {
+  "RC-CA": 0.9166,
+  "GlobalCF": 0.7423,
+  "CondAttr": 0.7815,
+  "AERec": 0.5538,
+  "Granger": 0.0,
+  "zDev": 0.025,
+  "Random": 0.0572,
+  "SHAP": 0.6705
+ },
+ "ocsvm/SMD": {
+  "RC-CA": 0.9123,
+  "GlobalCF": 0.8823,
+  "CondAttr": 0.889,
+  "AERec": 0.7848,
+  "Granger": 0.0,
+  "zDev": 0.0483,
+  "Random": 0.015,
+  "SHAP": 0.7289
+ },
+ "pca/PSM": {
+  "RC-CA": 0.9894,
+  "GlobalCF": 0.9588,
+  "CondAttr": 0.9638,
+  "AERec": 0.8035,
+  "Granger": 0.0,
+  "zDev": 0.667,
+  "Random": 0.0095,
+  "SHAP": 0.7393
+ },
+ "ocsvm/PSM": {
+  "RC-CA": 0.4052,
+  "GlobalCF": 0.7456,
+  "CondAttr": 0.6879,
+  "AERec": 0.6521,
+  "Granger": 0.0,
+  "zDev": 0.5646,
+  "Random": 0.0175,
+  "SHAP": 0.4584
+ },
+ "cmhmil/PSM": {
+  "SHAP": 0.8517
+ },
+ "cmhmil/SMAP": {
+  "SHAP": 1.0
+ }
+}

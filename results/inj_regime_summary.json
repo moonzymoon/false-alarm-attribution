@@ -1,0 +1,424 @@
+{
+ "SWaT": {
+  "K": 8,
+  "bic": {
+   "2": 1543564.8027103147,
+   "3": 1496777.8511457548,
+   "4": 1379975.849647877,
+   "5": 1318181.693967753,
+   "6": 1297437.1983431946,
+   "7": 1270266.6111852154,
+   "8": 1263512.056120173
+  },
+  "stats": {
+   "K1_holdout_far1": {
+    "valid_rate": 0.038806290590950566,
+    "n_regime_windows": 74524,
+    "n_fa_windows": 2892
+   },
+   "K1_holdout_far5": {
+    "valid_rate": 0.1229805163437282,
+    "n_regime_windows": 74524,
+    "n_fa_windows": 9165
+   },
+   "K1_gradual_far1": {
+    "valid_rate": 0.06756756756756757,
+    "n_regime_windows": 185,
+    "n_fa_windows": 125
+   },
+   "K1_gradual_far5": {
+    "valid_rate": 0.2437837837837838,
+    "n_regime_windows": 185,
+    "n_fa_windows": 451
+   },
+   "K2_holdout_far1": {
+    "valid_rate": 0.025805253875429313,
+    "n_regime_windows": 21546,
+    "n_fa_windows": 556
+   },
+   "K2_holdout_far5": {
+    "valid_rate": 0.11445279866332497,
+    "n_regime_windows": 21546,
+    "n_fa_windows": 2466
+   },
+   "K2_gradual_far1": {
+    "valid_rate": 0.258918918918919,
+    "n_regime_windows": 185,
+    "n_fa_windows": 479
+   },
+   "K2_gradual_far5": {
+    "valid_rate": 0.4227027027027027,
+    "n_regime_windows": 185,
+    "n_fa_windows": 782
+   },
+   "K5_holdout_far1": {
+    "valid_rate": 0.7008830987146979,
+    "n_regime_windows": 11437,
+    "n_fa_windows": 8016
+   },
+   "K5_holdout_far5": {
+    "valid_rate": 0.9378333479059194,
+    "n_regime_windows": 11437,
+    "n_fa_windows": 10726
+   },
+   "K5_gradual_far1": {
+    "valid_rate": 0.2675675675675676,
+    "n_regime_windows": 185,
+    "n_fa_windows": 495
+   },
+   "K5_gradual_far5": {
+    "valid_rate": 0.36270270270270266,
+    "n_regime_windows": 185,
+    "n_fa_windows": 671
+   },
+   "K6_holdout_far1": {
+    "valid_rate": 0.29867105632954594,
+    "n_regime_windows": 24907,
+    "n_fa_windows": 7439
+   },
+   "K6_holdout_far5": {
+    "valid_rate": 0.47380254546914524,
+    "n_regime_windows": 24907,
+    "n_fa_windows": 11801
+   },
+   "K6_gradual_far1": {
+    "valid_rate": 0.1583783783783784,
+    "n_regime_windows": 185,
+    "n_fa_windows": 293
+   },
+   "K6_gradual_far5": {
+    "valid_rate": 0.3075675675675676,
+    "n_regime_windows": 185,
+    "n_fa_windows": 569
+   },
+   "K7_holdout_far1": {
+    "valid_rate": 0.2087912087912088,
+    "n_regime_windows": 819,
+    "n_fa_windows": 171
+   },
+   "K7_holdout_far5": {
+    "valid_rate": 0.3333333333333333,
+    "n_regime_windows": 819,
+    "n_fa_windows": 273
+   },
+   "K7_gradual_far1": {
+    "valid_rate": 0.16324324324324327,
+    "n_regime_windows": 185,
+    "n_fa_windows": 302
+   },
+   "K7_gradual_far5": {
+    "valid_rate": 0.3372972972972973,
+    "n_regime_windows": 185,
+    "n_fa_windows": 624
+   }
+  }
+ },
+ "SMD": {
+  "K": 8,
+  "bic": {
+   "2": 234146.18041546922,
+   "3": 232054.3635027534,
+   "4": 219509.9518272576,
+   "5": 224912.39005818556,
+   "6": 218844.33457955671,
+   "7": 217031.09644044054,
+   "8": 215161.20202105286
+  },
+  "stats": {
+   "K0_holdout_far1": {
+    "valid_rate": 0.0,
+    "n_regime_windows": 4794,
+    "n_fa_windows": 0
+   },
+   "K0_holdout_far5": {
+    "valid_rate": 0.00020859407592824363,
+    "n_regime_windows": 4794,
+    "n_fa_windows": 1
+   },
+   "K0_gradual_far1": {
+    "valid_rate": 0.0,
+    "n_regime_windows": 185,
+    "n_fa_windows": 0
+   },
+   "K0_gradual_far5": {
+    "valid_rate": 0.001081081081081081,
+    "n_regime_windows": 185,
+    "n_fa_windows": 2
+   },
+   "K1_holdout_far1": {
+    "valid_rate": 0.0,
+    "n_regime_windows": 2548,
+    "n_fa_windows": 0
+   },
+   "K1_holdout_far5": {
+    "valid_rate": 0.6067503924646782,
+    "n_regime_windows": 2548,
+    "n_fa_windows": 1546
+   },
+   "K1_gradual_far1": {
+    "valid_rate": 0.0,
+    "n_regime_windows": 185,
+    "n_fa_windows": 0
+   },
+   "K1_gradual_far5": {
+    "valid_rate": 0.06324324324324324,
+    "n_regime_windows": 185,
+    "n_fa_windows": 117
+   },
+   "K2_holdout_far1": {
+    "valid_rate": 0.5211726384364821,
+    "n_regime_windows": 4912,
+    "n_fa_windows": 2560
+   },
+   "K2_holdout_far5": {
+    "valid_rate": 0.7294381107491856,
+    "n_regime_windows": 4912,
+    "n_fa_windows": 3583
+   },
+   "K2_gradual_far1": {
+    "valid_rate": 0.03135135135135135,
+    "n_regime_windows": 185,
+    "n_fa_windows": 58
+   },
+   "K2_gradual_far5": {
+    "valid_rate": 0.20378378378378378,
+    "n_regime_windows": 185,
+    "n_fa_windows": 377
+   },
+   "K3_holdout_far1": {
+    "valid_rate": 0.0,
+    "n_regime_windows": 299,
+    "n_fa_windows": 0
+   },
+   "K3_holdout_far5": {
+    "valid_rate": 0.006688963210702341,
+    "n_regime_windows": 299,
+    "n_fa_windows": 2
+   },
+   "K3_gradual_far1": {
+    "valid_rate": 0.009729729729729731,
+    "n_regime_windows": 185,
+    "n_fa_windows": 18
+   },
+   "K3_gradual_far5": {
+    "valid_rate": 0.1589189189189189,
+    "n_regime_windows": 185,
+    "n_fa_windows": 294
+   },
+   "K4_holdout_far1": {
+    "valid_rate": 0.0,
+    "n_regime_windows": 52,
+    "n_fa_windows": 0
+   },
+   "K4_holdout_far5": {
+    "valid_rate": 0.0,
+    "n_regime_windows": 52,
+    "n_fa_windows": 0
+   },
+   "K4_gradual_far1": {
+    "valid_rate": 0.0,
+    "n_regime_windows": 185,
+    "n_fa_windows": 0
+   },
+   "K4_gradual_far5": {
+    "valid_rate": 0.04540540540540541,
+    "n_regime_windows": 185,
+    "n_fa_windows": 84
+   },
+   "K6_holdout_far1": {
+    "valid_rate": 0.0015055467511885896,
+    "n_regime_windows": 12620,
+    "n_fa_windows": 19
+   },
+   "K6_holdout_far5": {
+    "valid_rate": 0.07606973058637084,
+    "n_regime_windows": 12620,
+    "n_fa_windows": 960
+   },
+   "K6_gradual_far1": {
+    "valid_rate": 0.0016216216216216218,
+    "n_regime_windows": 185,
+    "n_fa_windows": 3
+   },
+   "K6_gradual_far5": {
+    "valid_rate": 0.08432432432432432,
+    "n_regime_windows": 185,
+    "n_fa_windows": 156
+   },
+   "K7_holdout_far1": {
+    "valid_rate": 0.0,
+    "n_regime_windows": 425,
+    "n_fa_windows": 0
+   },
+   "K7_holdout_far5": {
+    "valid_rate": 0.43058823529411766,
+    "n_regime_windows": 425,
+    "n_fa_windows": 183
+   },
+   "K7_gradual_far1": {
+    "valid_rate": 0.003783783783783784,
+    "n_regime_windows": 185,
+    "n_fa_windows": 7
+   },
+   "K7_gradual_far5": {
+    "valid_rate": 0.08540540540540541,
+    "n_regime_windows": 185,
+    "n_fa_windows": 158
+   }
+  }
+ },
+ "MetroPT3": {
+  "K": 8,
+  "bic": {
+   "2": 917805.3755369236,
+   "3": 593304.5833123026,
+   "4": -262949.5380051652,
+   "5": -326010.08902114775,
+   "6": -685958.3548143406,
+   "7": -709178.4961192651,
+   "8": -794649.3529923274
+  },
+  "stats": {
+   "K0_holdout_far1": {
+    "valid_rate": 0.0,
+    "n_regime_windows": 409099,
+    "n_fa_windows": 0
+   },
+   "K0_holdout_far5": {
+    "valid_rate": 0.0,
+    "n_regime_windows": 409099,
+    "n_fa_windows": 0
+   },
+   "K0_gradual_far1": {
+    "valid_rate": 0.002162162162162162,
+    "n_regime_windows": 185,
+    "n_fa_windows": 4
+   },
+   "K0_gradual_far5": {
+    "valid_rate": 0.07783783783783785,
+    "n_regime_windows": 185,
+    "n_fa_windows": 144
+   },
+   "K1_holdout_far1": {
+    "valid_rate": 0.10466439135381114,
+    "n_regime_windows": 2637,
+    "n_fa_windows": 276
+   },
+   "K1_holdout_far5": {
+    "valid_rate": 0.7303754266211604,
+    "n_regime_windows": 2637,
+    "n_fa_windows": 1926
+   },
+   "K1_gradual_far1": {
+    "valid_rate": 0.06000000000000001,
+    "n_regime_windows": 185,
+    "n_fa_windows": 111
+   },
+   "K1_gradual_far5": {
+    "valid_rate": 0.3021621621621622,
+    "n_regime_windows": 185,
+    "n_fa_windows": 559
+   },
+   "K2_holdout_far1": {
+    "valid_rate": 0.0,
+    "n_regime_windows": 406872,
+    "n_fa_windows": 0
+   },
+   "K2_holdout_far5": {
+    "valid_rate": 0.0,
+    "n_regime_windows": 406872,
+    "n_fa_windows": 0
+   },
+   "K2_gradual_far1": {
+    "valid_rate": 0.0016216216216216218,
+    "n_regime_windows": 185,
+    "n_fa_windows": 3
+   },
+   "K2_gradual_far5": {
+    "valid_rate": 0.10918918918918918,
+    "n_regime_windows": 185,
+    "n_fa_windows": 202
+   },
+   "K3_holdout_far1": {
+    "valid_rate": 0.18932874354561102,
+    "n_regime_windows": 37184,
+    "n_fa_windows": 7040
+   },
+   "K3_holdout_far5": {
+    "valid_rate": 0.6303517641996558,
+    "n_regime_windows": 37184,
+    "n_fa_windows": 23439
+   },
+   "K3_gradual_far1": {
+    "valid_rate": 0.04216216216216216,
+    "n_regime_windows": 185,
+    "n_fa_windows": 78
+   },
+   "K3_gradual_far5": {
+    "valid_rate": 0.10216216216216216,
+    "n_regime_windows": 185,
+    "n_fa_windows": 189
+   },
+   "K4_holdout_far1": {
+    "valid_rate": 0.006510057867181042,
+    "n_regime_windows": 174192,
+    "n_fa_windows": 1134
+   },
+   "K4_holdout_far5": {
+    "valid_rate": 0.3308418297051529,
+    "n_regime_windows": 174192,
+    "n_fa_windows": 57630
+   },
+   "K4_gradual_far1": {
+    "valid_rate": 0.02702702702702703,
+    "n_regime_windows": 185,
+    "n_fa_windows": 50
+   },
+   "K4_gradual_far5": {
+    "valid_rate": 0.08918918918918921,
+    "n_regime_windows": 185,
+    "n_fa_windows": 165
+   },
+   "K6_holdout_far1": {
+    "valid_rate": 0.4032550482422323,
+    "n_regime_windows": 47987,
+    "n_fa_windows": 19351
+   },
+   "K6_holdout_far5": {
+    "valid_rate": 0.6387146518848855,
+    "n_regime_windows": 47987,
+    "n_fa_windows": 30650
+   },
+   "K6_gradual_far1": {
+    "valid_rate": 0.17405405405405405,
+    "n_regime_windows": 185,
+    "n_fa_windows": 322
+   },
+   "K6_gradual_far5": {
+    "valid_rate": 0.22486486486486487,
+    "n_regime_windows": 185,
+    "n_fa_windows": 416
+   },
+   "K7_holdout_far1": {
+    "valid_rate": 0.042251575982345545,
+    "n_regime_windows": 347561,
+    "n_fa_windows": 14685
+   },
+   "K7_holdout_far5": {
+    "valid_rate": 0.08563964311300751,
+    "n_regime_windows": 347561,
+    "n_fa_windows": 29765
+   },
+   "K7_gradual_far1": {
+    "valid_rate": 0.05243243243243243,
+    "n_regime_windows": 185,
+    "n_fa_windows": 97
+   },
+   "K7_gradual_far5": {
+    "valid_rate": 0.132972972972973,
+    "n_regime_windows": 185,
+    "n_fa_windows": 246
+   }
+  }
+ }
+}

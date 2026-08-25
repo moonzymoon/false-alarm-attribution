@@ -1,0 +1,96 @@
+{
+ "SWaT": {
+  "iforest_SWaT_mix_regime0": {
+   "GlobalCF": {
+    "layer1_macro_f1": 0.6123680241327301,
+    "layer2_top1": 0.5441176470588235
+   },
+   "RC-CA": {
+    "layer1_macro_f1": 0.6126447723306362,
+    "layer2_top1": 0.6323529411764706
+   },
+   "AERec": {
+    "layer1_macro_f1": 0.8288594456818756,
+    "layer2_top1": 0.9264705882352942
+   },
+   "zDev": {
+    "layer1_macro_f1": 0.42376681614349776,
+    "layer2_top1": 0.0
+   }
+  },
+  "iforest_SWaT_mix_regime1": {
+   "GlobalCF": {
+    "layer1_macro_f1": 0.8403693415235338,
+    "layer2_top1": 0.10810810810810811
+   },
+   "RC-CA": {
+    "layer1_macro_f1": 0.7150000000000001,
+    "layer2_top1": 0.21621621621621623
+   },
+   "AERec": {
+    "layer1_macro_f1": 0.9150041317435957,
+    "layer2_top1": 0.5945945945945946
+   },
+   "zDev": {
+    "layer1_macro_f1": 0.6156832298136645,
+    "layer2_top1": 0.05405405405405406
+   }
+  },
+  "iforest_SWaT_mix_regime3": {
+   "GlobalCF": {
+    "layer1_macro_f1": 0.456052749503873,
+    "layer2_top1": 0.4666666666666667
+   },
+   "RC-CA": {
+    "layer1_macro_f1": 0.5605267971465154,
+    "layer2_top1": 0.4
+   },
+   "AERec": {
+    "layer1_macro_f1": 0.9411646586345381,
+    "layer2_top1": 0.8888888888888888
+   },
+   "zDev": {
+    "layer1_macro_f1": 0.5510200313855811,
+    "layer2_top1": 0.16666666666666666
+   }
+  }
+ },
+ "SMD": {
+  "iforest_SMD_mix_regime1": {
+   "GlobalCF": {
+    "layer1_macro_f1": 0.5532021741699161,
+    "layer2_top1": 0.5833333333333334
+   },
+   "RC-CA": {
+    "layer1_macro_f1": 0.6531622985111357,
+    "layer2_top1": 0.3194444444444444
+   },
+   "AERec": {
+    "layer1_macro_f1": 0.7687687687687688,
+    "layer2_top1": 0.5555555555555556
+   },
+   "zDev": {
+    "layer1_macro_f1": 0.2835984713241031,
+    "layer2_top1": 0.027777777777777776
+   }
+  },
+  "iforest_SMD_mix_regime3": {
+   "GlobalCF": {
+    "layer1_macro_f1": 0.8978714652956299,
+    "layer2_top1": 0.770949720670391
+   },
+   "RC-CA": {
+    "layer1_macro_f1": 0.8766582167171603,
+    "layer2_top1": 0.664804469273743
+   },
+   "AERec": {
+    "layer1_macro_f1": 0.666860465116279,
+    "layer2_top1": 0.553072625698324
+   },
+   "zDev": {
+    "layer1_macro_f1": 0.5432807269249162,
+    "layer2_top1": 0.08379888268156424
+   }
+  }
+ }
+}

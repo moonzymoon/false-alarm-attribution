@@ -1,0 +1,124 @@
+{
+ "runtime_table": [
+  {
+   "method": "AERec",
+   "complexity": "O(1) forward pass",
+   "mean_ms": 0.01,
+   "range_ms": [
+    0.0,
+    0.02
+   ]
+  },
+  {
+   "method": "GlobalCF",
+   "complexity": "O(d) scorer calls",
+   "mean_ms": 0.62,
+   "range_ms": [
+    0.19,
+    1.06
+   ]
+  },
+  {
+   "method": "CondAttr",
+   "complexity": "O(d + UMAP) calls",
+   "mean_ms": 3.1,
+   "range_ms": [
+    2.04,
+    4.2
+   ]
+  },
+  {
+   "method": "RC-CA",
+   "complexity": "O(d + K) scorer calls",
+   "mean_ms": 13.68,
+   "range_ms": [
+    3.44,
+    33.37
+   ]
+  },
+  {
+   "method": "Granger",
+   "complexity": "O(d$^2$) matrix op",
+   "mean_ms": 0.29,
+   "range_ms": [
+    0.03,
+    0.7
+   ]
+  },
+  {
+   "method": "zDev",
+   "complexity": "O(d$\\cdot$T) stats",
+   "mean_ms": 4.16,
+   "range_ms": [
+    1.54,
+    7.02
+   ]
+  },
+  {
+   "method": "Random",
+   "complexity": "O(d) uniform draws",
+   "mean_ms": 0.0,
+   "range_ms": [
+    0.0,
+    0.0
+   ]
+  },
+  {
+   "method": "SHAP",
+   "complexity": "O(2$^d$) exact / O(s$\\cdot$d) kernel",
+   "mean_ms": 9.18,
+   "range_ms": [
+    0,
+    18.36
+   ]
+  }
+ ],
+ "power_units": {
+  "n": 23,
+  "min_detectable_paired_effect_dz": 0.584,
+  "interpretation": "Paired effect size |dz| >= 0.58 detectable at alpha=0.05, power=0.80"
+ },
+ "power_pairs": {
+  "n": 19,
+  "CI_width_at_median": 0.47,
+  "interpretation": "95% exact binomial CI spans ~0.47 at n=19; distinguishing 42% from 26% requires n>50"
+ },
+ "deployment_guide": [
+  {
+   "detector": "Flattened tree ensemble (iforest)",
+   "method": "AERec (reconstruction)",
+   "top1": "0.75",
+   "cost": "0.02 ms",
+   "typing": "Confidence gate alone (0.83)",
+   "repair_var": "Channel replacement",
+   "repair_mode": "Collect representative mode data"
+  },
+  {
+   "detector": "Linear/kernel smooth (PCA, OCSVM)",
+   "method": "RC-CA or RegimeGlobal (counterfactual)",
+   "top1": "0.87-0.96",
+   "cost": "3-4 ms",
+   "typing": "Confidence gate (0.68-0.82)",
+   "repair_var": "Channel replacement",
+   "repair_mode": "Collect representative mode data"
+  },
+  {
+   "detector": "Transformer (AT)",
+   "method": "GlobalCF (global counterfactual)",
+   "top1": "0.84 pooled",
+   "cost": "1 ms",
+   "typing": "n/a (variable-only units)",
+   "repair_var": "Channel replacement",
+   "repair_mode": "n/a"
+  },
+  {
+   "detector": "Deep MIL (attention pooling)",
+   "method": "AERec or CondAttr (tied)",
+   "top1": "0.90",
+   "cost": "0.02-2 ms",
+   "typing": "n/a (variable-only units)",
+   "repair_var": "Channel replacement",
+   "repair_mode": "n/a"
+  }
+ ]
+}

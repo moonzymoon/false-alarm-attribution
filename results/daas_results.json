@@ -1,0 +1,23 @@
+{
+ "best_methods": {
+  "AT_SMD": "GlobalCF",
+  "AT_SWaT": "RC-CA",
+  "cmhmil_SMD": "CondAttr",
+  "cmhmil_SWaT": "AERec",
+  "iforest_MetroPT3": "AERec",
+  "iforest_PSM": "AERec",
+  "iforest_SMAP": "zDev",
+  "iforest_SMD": "CondAttr",
+  "iforest_SWaT": "AERec"
+ },
+ "loo_accuracy": 0.3333333333333333,
+ "loo_details": {
+  "correct": 3,
+  "total": 9
+ },
+ "rule": {
+  "AT": "GlobalCF",
+  "cmhmil": "CondAttr",
+  "iforest": "AERec"
+ }
+}

@@ -1,0 +1,862 @@
+{
+ "K_gmm": {
+  "iforest_SWaT_mix_regime1": {
+   "4": {
+    "layer1_macro_f1": 0.7194185234558497,
+    "layer2_top1": 0.23357664233576642,
+    "regime_hit": 0.07389162561576355
+   },
+   "6": {
+    "layer1_macro_f1": 0.7090232558139535,
+    "layer2_top1": 0.2116788321167883,
+    "regime_hit": 0.10344827586206896
+   },
+   "8": {
+    "layer1_macro_f1": 0.6515856390166046,
+    "layer2_top1": 0.2116788321167883,
+    "regime_hit": 0.625615763546798
+   },
+   "10": {
+    "layer1_macro_f1": 0.7180866745283019,
+    "layer2_top1": 0.2116788321167883,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_SWaT_mix_regime2": {
+   "4": {
+    "layer1_macro_f1": 0.771588841722256,
+    "layer2_top1": 0.3684210526315789,
+    "regime_hit": 0.0
+   },
+   "6": {
+    "layer1_macro_f1": 0.7580961652545596,
+    "layer2_top1": 0.3157894736842105,
+    "regime_hit": 0.2857142857142857
+   },
+   "8": {
+    "layer1_macro_f1": 0.7912176724137931,
+    "layer2_top1": 0.42105263157894735,
+    "regime_hit": 0.0
+   },
+   "10": {
+    "layer1_macro_f1": 0.8258064516129032,
+    "layer2_top1": 0.39473684210526316,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_SWaT_mix_regime5": {
+   "4": {
+    "layer1_macro_f1": 0.8301688657034942,
+    "layer2_top1": 0.32098765432098764,
+    "regime_hit": 0.0
+   },
+   "6": {
+    "layer1_macro_f1": 0.8302676687763713,
+    "layer2_top1": 0.2962962962962963,
+    "regime_hit": 0.0
+   },
+   "8": {
+    "layer1_macro_f1": 0.879054572718996,
+    "layer2_top1": 0.345679012345679,
+    "regime_hit": 0.05263157894736842
+   },
+   "10": {
+    "layer1_macro_f1": 0.8497404103029387,
+    "layer2_top1": 0.35802469135802467,
+    "regime_hit": 0.021052631578947368
+   }
+  },
+  "iforest_SWaT_mix_regime6": {
+   "4": {
+    "layer1_macro_f1": 0.6451185348073621,
+    "layer2_top1": 0.34146341463414637,
+    "regime_hit": 0.0
+   },
+   "6": {
+    "layer1_macro_f1": 0.5064769992157288,
+    "layer2_top1": 0.3170731707317073,
+    "regime_hit": 0.0
+   },
+   "8": {
+    "layer1_macro_f1": 0.44964262508122155,
+    "layer2_top1": 0.3170731707317073,
+    "regime_hit": 0.010526315789473684
+   },
+   "10": {
+    "layer1_macro_f1": 0.43243243243243246,
+    "layer2_top1": 0.3170731707317073,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_SWaT_mix_regime7": {
+   "4": {
+    "layer1_macro_f1": 0.6168997668997669,
+    "layer2_top1": 0.725,
+    "regime_hit": 0.0
+   },
+   "6": {
+    "layer1_macro_f1": 0.6009645628014259,
+    "layer2_top1": 0.575,
+    "regime_hit": 0.0
+   },
+   "8": {
+    "layer1_macro_f1": 0.273963404398187,
+    "layer2_top1": 0.7,
+    "regime_hit": 0.0
+   },
+   "10": {
+    "layer1_macro_f1": 0.258107745912624,
+    "layer2_top1": 0.525,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_SMD_mix_regime1": {
+   "4": {
+    "layer1_macro_f1": 0.7911145051884462,
+    "layer2_top1": 0.38317757009345793,
+    "regime_hit": 0.0
+   },
+   "6": {
+    "layer1_macro_f1": 0.7471668956043955,
+    "layer2_top1": 0.3925233644859813,
+    "regime_hit": 0.24630541871921183
+   },
+   "8": {
+    "layer1_macro_f1": 0.7906550471106537,
+    "layer2_top1": 0.38317757009345793,
+    "regime_hit": 0.0049261083743842365
+   },
+   "10": {
+    "layer1_macro_f1": 0.7212719298245613,
+    "layer2_top1": 0.4953271028037383,
+    "regime_hit": 0.034482758620689655
+   }
+  },
+  "iforest_SMD_mix_regime2": {
+   "4": {
+    "layer1_macro_f1": 0.9053715354655794,
+    "layer2_top1": 0.4251497005988024,
+    "regime_hit": 0.8620689655172413
+   },
+   "6": {
+    "layer1_macro_f1": 0.8918792554279535,
+    "layer2_top1": 0.4251497005988024,
+    "regime_hit": 0.0
+   },
+   "8": {
+    "layer1_macro_f1": 0.8999817351598174,
+    "layer2_top1": 0.4311377245508982,
+    "regime_hit": 0.0
+   },
+   "10": {
+    "layer1_macro_f1": 0.8945753424657534,
+    "layer2_top1": 0.4251497005988024,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_SMD_mix_regime6": {
+   "4": {
+    "layer1_macro_f1": 0.6144424635097332,
+    "layer2_top1": 0.37662337662337664,
+    "regime_hit": 0.0
+   },
+   "6": {
+    "layer1_macro_f1": 0.711518648258809,
+    "layer2_top1": 0.24675324675324675,
+    "regime_hit": 0.0
+   },
+   "8": {
+    "layer1_macro_f1": 0.7110423116615068,
+    "layer2_top1": 0.24675324675324675,
+    "regime_hit": 0.0
+   },
+   "10": {
+    "layer1_macro_f1": 0.6756550682561328,
+    "layer2_top1": 0.3246753246753247,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_SMD_mix_regime7": {
+   "4": {
+    "layer1_macro_f1": 0.6027336683417086,
+    "layer2_top1": 0.463768115942029,
+    "regime_hit": 0.0
+   },
+   "6": {
+    "layer1_macro_f1": 0.5974025974025974,
+    "layer2_top1": 0.4782608695652174,
+    "regime_hit": 0.0
+   },
+   "8": {
+    "layer1_macro_f1": 0.8147865853658536,
+    "layer2_top1": 0.5072463768115942,
+    "regime_hit": 0.0
+   },
+   "10": {
+    "layer1_macro_f1": 0.7962885340852799,
+    "layer2_top1": 0.463768115942029,
+    "regime_hit": 1.0
+   }
+  },
+  "iforest_MetroPT3_mix_regime1": {
+   "4": {
+    "layer1_macro_f1": 0.7369671658986174,
+    "layer2_top1": 0.5512820512820513,
+    "regime_hit": 0.0
+   },
+   "6": {
+    "layer1_macro_f1": 0.6481808808366475,
+    "layer2_top1": 0.5512820512820513,
+    "regime_hit": 1.0
+   },
+   "8": {
+    "layer1_macro_f1": 0.7431779605692649,
+    "layer2_top1": 0.6538461538461539,
+    "regime_hit": 0.0
+   },
+   "10": {
+    "layer1_macro_f1": 0.6237491190979563,
+    "layer2_top1": 0.5769230769230769,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_MetroPT3_mix_regime3": {
+   "4": {
+    "layer1_macro_f1": 0.6818321078431373,
+    "layer2_top1": 0.6615384615384615,
+    "regime_hit": 0.0
+   },
+   "6": {
+    "layer1_macro_f1": 0.6165487777844951,
+    "layer2_top1": 0.6615384615384615,
+    "regime_hit": 0.0
+   },
+   "8": {
+    "layer1_macro_f1": 0.6165487777844951,
+    "layer2_top1": 0.6153846153846154,
+    "regime_hit": 0.0
+   },
+   "10": {
+    "layer1_macro_f1": 0.6818321078431373,
+    "layer2_top1": 0.7692307692307693,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_MetroPT3_mix_regime4": {
+   "4": {
+    "layer1_macro_f1": 0.8053029746603011,
+    "layer2_top1": 0.4936708860759494,
+    "regime_hit": 0.0
+   },
+   "6": {
+    "layer1_macro_f1": 0.7970179948586118,
+    "layer2_top1": 0.5063291139240507,
+    "regime_hit": 0.9950738916256158
+   },
+   "8": {
+    "layer1_macro_f1": 0.7922192749778957,
+    "layer2_top1": 0.45569620253164556,
+    "regime_hit": 0.8916256157635468
+   },
+   "10": {
+    "layer1_macro_f1": 0.8147418210484825,
+    "layer2_top1": 0.5443037974683544,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_MetroPT3_mix_regime6": {
+   "4": {
+    "layer1_macro_f1": 0.6766517357222844,
+    "layer2_top1": 0.7377049180327869,
+    "regime_hit": 0.0
+   },
+   "6": {
+    "layer1_macro_f1": 0.7858201058201058,
+    "layer2_top1": 0.7868852459016393,
+    "regime_hit": 0.0
+   },
+   "8": {
+    "layer1_macro_f1": 0.7934566145092461,
+    "layer2_top1": 0.7704918032786885,
+    "regime_hit": 0.0
+   },
+   "10": {
+    "layer1_macro_f1": 0.780276602149776,
+    "layer2_top1": 0.7704918032786885,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_MetroPT3_mix_regime7": {
+   "4": {
+    "layer1_macro_f1": 0.6021728395061728,
+    "layer2_top1": 0.84,
+    "regime_hit": 0.0
+   },
+   "6": {
+    "layer1_macro_f1": 0.6021728395061728,
+    "layer2_top1": 0.84,
+    "regime_hit": 0.0
+   },
+   "8": {
+    "layer1_macro_f1": 0.552565180824222,
+    "layer2_top1": 0.8,
+    "regime_hit": 0.3251231527093596
+   },
+   "10": {
+    "layer1_macro_f1": 0.6052631578947368,
+    "layer2_top1": 0.8,
+    "regime_hit": 0.0
+   }
+  }
+ },
+ "K_nn": {
+  "iforest_SWaT_mix_regime1": {
+   "1": {
+    "layer1_macro_f1": 0.6417857142857143,
+    "layer2_top1": 0.21897810218978103,
+    "regime_hit": 0.625615763546798
+   },
+   "3": {
+    "layer1_macro_f1": 0.6205357142857143,
+    "layer2_top1": 0.2116788321167883,
+    "regime_hit": 0.625615763546798
+   },
+   "5": {
+    "layer1_macro_f1": 0.6515856390166046,
+    "layer2_top1": 0.2116788321167883,
+    "regime_hit": 0.625615763546798
+   },
+   "10": {
+    "layer1_macro_f1": 0.6314363143631436,
+    "layer2_top1": 0.19708029197080293,
+    "regime_hit": 0.625615763546798
+   }
+  },
+  "iforest_SWaT_mix_regime2": {
+   "1": {
+    "layer1_macro_f1": 0.8712590639419908,
+    "layer2_top1": 0.4473684210526316,
+    "regime_hit": 0.0
+   },
+   "3": {
+    "layer1_macro_f1": 0.8199225473321858,
+    "layer2_top1": 0.3815789473684211,
+    "regime_hit": 0.0
+   },
+   "5": {
+    "layer1_macro_f1": 0.7912176724137931,
+    "layer2_top1": 0.42105263157894735,
+    "regime_hit": 0.0
+   },
+   "10": {
+    "layer1_macro_f1": 0.777989640417386,
+    "layer2_top1": 0.39473684210526316,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_SWaT_mix_regime5": {
+   "1": {
+    "layer1_macro_f1": 0.8739869802045968,
+    "layer2_top1": 0.35802469135802467,
+    "regime_hit": 0.05263157894736842
+   },
+   "3": {
+    "layer1_macro_f1": 0.8844349680170576,
+    "layer2_top1": 0.345679012345679,
+    "regime_hit": 0.05263157894736842
+   },
+   "5": {
+    "layer1_macro_f1": 0.879054572718996,
+    "layer2_top1": 0.345679012345679,
+    "regime_hit": 0.05263157894736842
+   },
+   "10": {
+    "layer1_macro_f1": 0.879054572718996,
+    "layer2_top1": 0.2839506172839506,
+    "regime_hit": 0.05263157894736842
+   }
+  },
+  "iforest_SWaT_mix_regime6": {
+   "1": {
+    "layer1_macro_f1": 0.6655258654732131,
+    "layer2_top1": 0.3170731707317073,
+    "regime_hit": 0.010526315789473684
+   },
+   "3": {
+    "layer1_macro_f1": 0.6898512570751612,
+    "layer2_top1": 0.3902439024390244,
+    "regime_hit": 0.010526315789473684
+   },
+   "5": {
+    "layer1_macro_f1": 0.44964262508122155,
+    "layer2_top1": 0.3170731707317073,
+    "regime_hit": 0.010526315789473684
+   },
+   "10": {
+    "layer1_macro_f1": 0.5897600604572076,
+    "layer2_top1": 0.4146341463414634,
+    "regime_hit": 0.010526315789473684
+   }
+  },
+  "iforest_SWaT_mix_regime7": {
+   "1": {
+    "layer1_macro_f1": 0.18773855767606823,
+    "layer2_top1": 0.525,
+    "regime_hit": 0.0
+   },
+   "3": {
+    "layer1_macro_f1": 0.18773855767606823,
+    "layer2_top1": 0.65,
+    "regime_hit": 0.0
+   },
+   "5": {
+    "layer1_macro_f1": 0.273963404398187,
+    "layer2_top1": 0.7,
+    "regime_hit": 0.0
+   },
+   "10": {
+    "layer1_macro_f1": 0.33445957247516145,
+    "layer2_top1": 0.7,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_SMD_mix_regime1": {
+   "1": {
+    "layer1_macro_f1": 0.7688601030503344,
+    "layer2_top1": 0.35514018691588783,
+    "regime_hit": 0.0049261083743842365
+   },
+   "3": {
+    "layer1_macro_f1": 0.7681376215407629,
+    "layer2_top1": 0.4392523364485981,
+    "regime_hit": 0.0049261083743842365
+   },
+   "5": {
+    "layer1_macro_f1": 0.7906550471106537,
+    "layer2_top1": 0.38317757009345793,
+    "regime_hit": 0.0049261083743842365
+   },
+   "10": {
+    "layer1_macro_f1": 0.7757479566827541,
+    "layer2_top1": 0.3364485981308411,
+    "regime_hit": 0.0049261083743842365
+   }
+  },
+  "iforest_SMD_mix_regime2": {
+   "1": {
+    "layer1_macro_f1": 0.9026002515428939,
+    "layer2_top1": 0.41317365269461076,
+    "regime_hit": 0.0
+   },
+   "3": {
+    "layer1_macro_f1": 0.8972702829085808,
+    "layer2_top1": 0.40718562874251496,
+    "regime_hit": 0.0
+   },
+   "5": {
+    "layer1_macro_f1": 0.8999817351598174,
+    "layer2_top1": 0.4311377245508982,
+    "regime_hit": 0.0
+   },
+   "10": {
+    "layer1_macro_f1": 0.8891883797544174,
+    "layer2_top1": 0.4311377245508982,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_SMD_mix_regime6": {
+   "1": {
+    "layer1_macro_f1": 0.7102029914529915,
+    "layer2_top1": 0.37662337662337664,
+    "regime_hit": 0.0
+   },
+   "3": {
+    "layer1_macro_f1": 0.7626921479019526,
+    "layer2_top1": 0.2727272727272727,
+    "regime_hit": 0.0
+   },
+   "5": {
+    "layer1_macro_f1": 0.7110423116615068,
+    "layer2_top1": 0.24675324675324675,
+    "regime_hit": 0.0
+   },
+   "10": {
+    "layer1_macro_f1": 0.7254673867885335,
+    "layer2_top1": 0.22077922077922077,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_SMD_mix_regime7": {
+   "1": {
+    "layer1_macro_f1": 0.6955704697986578,
+    "layer2_top1": 0.5217391304347826,
+    "regime_hit": 0.0
+   },
+   "3": {
+    "layer1_macro_f1": 0.7440955499903679,
+    "layer2_top1": 0.5072463768115942,
+    "regime_hit": 0.0
+   },
+   "5": {
+    "layer1_macro_f1": 0.8147865853658536,
+    "layer2_top1": 0.5072463768115942,
+    "regime_hit": 0.0
+   },
+   "10": {
+    "layer1_macro_f1": 0.6705256570713392,
+    "layer2_top1": 0.5217391304347826,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_MetroPT3_mix_regime1": {
+   "1": {
+    "layer1_macro_f1": 0.6446810246369719,
+    "layer2_top1": 0.5641025641025641,
+    "regime_hit": 0.0
+   },
+   "3": {
+    "layer1_macro_f1": 0.7292331206804892,
+    "layer2_top1": 0.6410256410256411,
+    "regime_hit": 0.0
+   },
+   "5": {
+    "layer1_macro_f1": 0.7431779605692649,
+    "layer2_top1": 0.6538461538461539,
+    "regime_hit": 0.0
+   },
+   "10": {
+    "layer1_macro_f1": 0.7690820321941316,
+    "layer2_top1": 0.6923076923076923,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_MetroPT3_mix_regime3": {
+   "1": {
+    "layer1_macro_f1": 0.5926770293609671,
+    "layer2_top1": 0.7076923076923077,
+    "regime_hit": 0.0
+   },
+   "3": {
+    "layer1_macro_f1": 0.645411865130175,
+    "layer2_top1": 0.6307692307692307,
+    "regime_hit": 0.0
+   },
+   "5": {
+    "layer1_macro_f1": 0.6165487777844951,
+    "layer2_top1": 0.6153846153846154,
+    "regime_hit": 0.0
+   },
+   "10": {
+    "layer1_macro_f1": 0.645673076923077,
+    "layer2_top1": 0.6615384615384615,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_MetroPT3_mix_regime4": {
+   "1": {
+    "layer1_macro_f1": 0.7633680555555555,
+    "layer2_top1": 0.5822784810126582,
+    "regime_hit": 0.8916256157635468
+   },
+   "3": {
+    "layer1_macro_f1": 0.7633680555555555,
+    "layer2_top1": 0.45569620253164556,
+    "regime_hit": 0.8916256157635468
+   },
+   "5": {
+    "layer1_macro_f1": 0.7922192749778957,
+    "layer2_top1": 0.45569620253164556,
+    "regime_hit": 0.8916256157635468
+   },
+   "10": {
+    "layer1_macro_f1": 0.7721630554535439,
+    "layer2_top1": 0.4936708860759494,
+    "regime_hit": 0.8916256157635468
+   }
+  },
+  "iforest_MetroPT3_mix_regime6": {
+   "1": {
+    "layer1_macro_f1": 0.8199863626032275,
+    "layer2_top1": 0.7868852459016393,
+    "regime_hit": 0.0
+   },
+   "3": {
+    "layer1_macro_f1": 0.7891520244461421,
+    "layer2_top1": 0.7868852459016393,
+    "regime_hit": 0.0
+   },
+   "5": {
+    "layer1_macro_f1": 0.7934566145092461,
+    "layer2_top1": 0.7704918032786885,
+    "regime_hit": 0.0
+   },
+   "10": {
+    "layer1_macro_f1": 0.8541973490427099,
+    "layer2_top1": 0.7868852459016393,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_MetroPT3_mix_regime7": {
+   "1": {
+    "layer1_macro_f1": 0.613073538654934,
+    "layer2_top1": 0.8,
+    "regime_hit": 0.3251231527093596
+   },
+   "3": {
+    "layer1_macro_f1": 0.5913978494623656,
+    "layer2_top1": 0.8,
+    "regime_hit": 0.3251231527093596
+   },
+   "5": {
+    "layer1_macro_f1": 0.552565180824222,
+    "layer2_top1": 0.8,
+    "regime_hit": 0.3251231527093596
+   },
+   "10": {
+    "layer1_macro_f1": 0.5483231923022499,
+    "layer2_top1": 0.8,
+    "regime_hit": 0.3251231527093596
+   }
+  }
+ },
+ "seed": {
+  "iforest_SWaT_mix_regime1": {
+   "0": {
+    "layer1_macro_f1": 0.6515856390166046,
+    "layer2_top1": 0.2116788321167883,
+    "regime_hit": 0.625615763546798
+   },
+   "1": {
+    "layer1_macro_f1": 0.638359298885403,
+    "layer2_top1": 0.32116788321167883,
+    "regime_hit": 0.6896551724137931
+   },
+   "2": {
+    "layer1_macro_f1": 0.6314363143631436,
+    "layer2_top1": 0.18248175182481752,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_SWaT_mix_regime2": {
+   "0": {
+    "layer1_macro_f1": 0.7912176724137931,
+    "layer2_top1": 0.42105263157894735,
+    "regime_hit": 0.0
+   },
+   "1": {
+    "layer1_macro_f1": 0.7805690492713393,
+    "layer2_top1": 0.3684210526315789,
+    "regime_hit": 0.0
+   },
+   "2": {
+    "layer1_macro_f1": 0.8057594936708861,
+    "layer2_top1": 0.3684210526315789,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_SWaT_mix_regime5": {
+   "0": {
+    "layer1_macro_f1": 0.879054572718996,
+    "layer2_top1": 0.345679012345679,
+    "regime_hit": 0.05263157894736842
+   },
+   "1": {
+    "layer1_macro_f1": 0.8844349680170576,
+    "layer2_top1": 0.35802469135802467,
+    "regime_hit": 0.4052631578947368
+   },
+   "2": {
+    "layer1_macro_f1": 0.8844349680170576,
+    "layer2_top1": 0.35802469135802467,
+    "regime_hit": 0.07368421052631578
+   }
+  },
+  "iforest_SWaT_mix_regime6": {
+   "0": {
+    "layer1_macro_f1": 0.44964262508122155,
+    "layer2_top1": 0.3170731707317073,
+    "regime_hit": 0.010526315789473684
+   },
+   "1": {
+    "layer1_macro_f1": 0.6439137842442599,
+    "layer2_top1": 0.3170731707317073,
+    "regime_hit": 0.0
+   },
+   "2": {
+    "layer1_macro_f1": 0.45362718089990817,
+    "layer2_top1": 0.3170731707317073,
+    "regime_hit": 0.02631578947368421
+   }
+  },
+  "iforest_SWaT_mix_regime7": {
+   "0": {
+    "layer1_macro_f1": 0.273963404398187,
+    "layer2_top1": 0.7,
+    "regime_hit": 0.0
+   },
+   "1": {
+    "layer1_macro_f1": 0.37616688572102586,
+    "layer2_top1": 0.525,
+    "regime_hit": 0.06015037593984962
+   },
+   "2": {
+    "layer1_macro_f1": 0.2079181255049825,
+    "layer2_top1": 0.525,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_SMD_mix_regime1": {
+   "0": {
+    "layer1_macro_f1": 0.7906550471106537,
+    "layer2_top1": 0.38317757009345793,
+    "regime_hit": 0.0049261083743842365
+   },
+   "1": {
+    "layer1_macro_f1": 0.696179901131921,
+    "layer2_top1": 0.4953271028037383,
+    "regime_hit": 0.09359605911330049
+   },
+   "2": {
+    "layer1_macro_f1": 0.6997006802721089,
+    "layer2_top1": 0.5046728971962616,
+    "regime_hit": 0.14285714285714285
+   }
+  },
+  "iforest_SMD_mix_regime2": {
+   "0": {
+    "layer1_macro_f1": 0.8999817351598174,
+    "layer2_top1": 0.4311377245508982,
+    "regime_hit": 0.0
+   },
+   "1": {
+    "layer1_macro_f1": 0.8945876646382889,
+    "layer2_top1": 0.4311377245508982,
+    "regime_hit": 0.0
+   },
+   "2": {
+    "layer1_macro_f1": 0.897285292656556,
+    "layer2_top1": 0.40119760479041916,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_SMD_mix_regime6": {
+   "0": {
+    "layer1_macro_f1": 0.7110423116615068,
+    "layer2_top1": 0.24675324675324675,
+    "regime_hit": 0.0
+   },
+   "1": {
+    "layer1_macro_f1": 0.6218181818181818,
+    "layer2_top1": 0.23376623376623376,
+    "regime_hit": 0.0
+   },
+   "2": {
+    "layer1_macro_f1": 0.6530727839139054,
+    "layer2_top1": 0.23376623376623376,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_SMD_mix_regime7": {
+   "0": {
+    "layer1_macro_f1": 0.8147865853658536,
+    "layer2_top1": 0.5072463768115942,
+    "regime_hit": 0.0
+   },
+   "1": {
+    "layer1_macro_f1": 0.7393103448275862,
+    "layer2_top1": 0.5362318840579711,
+    "regime_hit": 1.0
+   },
+   "2": {
+    "layer1_macro_f1": 0.6816798304758236,
+    "layer2_top1": 0.5507246376811594,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_MetroPT3_mix_regime1": {
+   "0": {
+    "layer1_macro_f1": 0.7431779605692649,
+    "layer2_top1": 0.6538461538461539,
+    "regime_hit": 0.0
+   },
+   "1": {
+    "layer1_macro_f1": 0.7064890977934456,
+    "layer2_top1": 0.6538461538461539,
+    "regime_hit": 0.0
+   },
+   "2": {
+    "layer1_macro_f1": 0.7064890977934456,
+    "layer2_top1": 0.6538461538461539,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_MetroPT3_mix_regime3": {
+   "0": {
+    "layer1_macro_f1": 0.6165487777844951,
+    "layer2_top1": 0.6153846153846154,
+    "regime_hit": 0.0
+   },
+   "1": {
+    "layer1_macro_f1": 0.6165487777844951,
+    "layer2_top1": 0.6153846153846154,
+    "regime_hit": 0.0
+   },
+   "2": {
+    "layer1_macro_f1": 0.6165487777844951,
+    "layer2_top1": 0.6307692307692307,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_MetroPT3_mix_regime4": {
+   "0": {
+    "layer1_macro_f1": 0.7922192749778957,
+    "layer2_top1": 0.45569620253164556,
+    "regime_hit": 0.8916256157635468
+   },
+   "1": {
+    "layer1_macro_f1": 0.7908756525866161,
+    "layer2_top1": 0.5063291139240507,
+    "regime_hit": 0.0
+   },
+   "2": {
+    "layer1_macro_f1": 0.8417409739976305,
+    "layer2_top1": 0.5189873417721519,
+    "regime_hit": 0.0
+   }
+  },
+  "iforest_MetroPT3_mix_regime6": {
+   "0": {
+    "layer1_macro_f1": 0.7934566145092461,
+    "layer2_top1": 0.7704918032786885,
+    "regime_hit": 0.0
+   },
+   "1": {
+    "layer1_macro_f1": 0.8050958854776267,
+    "layer2_top1": 0.7704918032786885,
+    "regime_hit": 0.0
+   },
+   "2": {
+    "layer1_macro_f1": 0.7989764657966035,
+    "layer2_top1": 0.7868852459016393,
+    "regime_hit": 0.4482758620689655
+   }
+  },
+  "iforest_MetroPT3_mix_regime7": {
+   "0": {
+    "layer1_macro_f1": 0.552565180824222,
+    "layer2_top1": 0.8,
+    "regime_hit": 0.3251231527093596
+   },
+   "1": {
+    "layer1_macro_f1": 0.5744192056973839,
+    "layer2_top1": 0.8,
+    "regime_hit": 0.541871921182266
+   },
+   "2": {
+    "layer1_macro_f1": 0.5744192056973839,
+    "layer2_top1": 0.8,
+    "regime_hit": 0.541871921182266
+   }
+  }
+ }
+}

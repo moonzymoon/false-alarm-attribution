@@ -1,0 +1,65 @@
+{
+ "AERec|GlobalCF|top1": {
+  "n": 23,
+  "mean_diff": 0.27044492507161616,
+  "wilcoxon_W": 17.0,
+  "p": 0.00037799533287222436,
+  "cliffs_delta": 0.4933837429111531,
+  "wins": 20,
+  "losses": 2
+ },
+ "AERec|CondAttr|top1": {
+  "n": 23,
+  "mean_diff": 0.22566521172436935,
+  "wilcoxon_W": 23.0,
+  "p": 0.0007788753356181733,
+  "cliffs_delta": 0.5141776937618148,
+  "wins": 20,
+  "losses": 2
+ },
+ "AERec|zDev|top1": {
+  "n": 23,
+  "mean_diff": 0.3299336208497681,
+  "wilcoxon_W": 2.0,
+  "p": 0.0001821819171706161,
+  "cliffs_delta": 0.497164461247637,
+  "wins": 18,
+  "losses": 1
+ },
+ "AERec|GlobalCF|f1": {
+  "n": 23,
+  "mean_diff": 0.13449402475153485,
+  "wilcoxon_W": 48.0,
+  "p": 0.004851341247558594,
+  "cliffs_delta": 0.5274102079395085,
+  "wins": 17,
+  "losses": 6
+ },
+ "RegimeGlobal|GlobalCF|f1": {
+  "n": 23,
+  "mean_diff": 0.045617929172676194,
+  "wilcoxon_W": 73.0,
+  "p": 0.04844093322753906,
+  "cliffs_delta": 0.15689981096408318,
+  "wins": 15,
+  "losses": 8
+ },
+ "CondAttr|GlobalCF|top1": {
+  "n": 23,
+  "mean_diff": 0.04477971334724683,
+  "wilcoxon_W": 91.0,
+  "p": 0.24910310970315597,
+  "cliffs_delta": 0.14744801512287334,
+  "wins": 15,
+  "losses": 7
+ },
+ "RC-CA|GlobalCF|top1": {
+  "n": 23,
+  "mean_diff": -0.004207313996422729,
+  "wilcoxon_W": 109.0,
+  "p": 0.8212599673323558,
+  "cliffs_delta": 0.003780718336483932,
+  "wins": 10,
+  "losses": 11
+ }
+}

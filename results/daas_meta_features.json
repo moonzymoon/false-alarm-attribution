@@ -1,0 +1,27 @@
+{
+ "methods": [
+  "AERec",
+  "CondAttr",
+  "GlobalCF",
+  "RC-CA",
+  "RegimeGlobal",
+  "zDev"
+ ],
+ "labels": {
+  "AT/SMD": "GlobalCF",
+  "AT/SWaT": "RC-CA",
+  "cmhmil/SMD": "CondAttr",
+  "cmhmil/SWaT": "AERec",
+  "iforest/MetroPT3": "AERec",
+  "iforest/PSM": "AERec",
+  "iforest/SMAP": "zDev",
+  "iforest/SMD": "CondAttr",
+  "iforest/SWaT": "AERec",
+  "ocsvm/PSM": "GlobalCF",
+  "ocsvm/SMD": "RegimeGlobal",
+  "ocsvm/SWaT": "AERec",
+  "pca/PSM": "RC-CA",
+  "pca/SMD": "RC-CA",
+  "pca/SWaT": "RC-CA"
+ }
+}

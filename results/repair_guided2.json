@@ -1,0 +1,198 @@
+[
+ {
+  "dataset": "SWaT",
+  "regime": 1,
+  "n_flagged": 190,
+  "n_eval": 74524,
+  "far": {
+   "base": 0.1229805163437282,
+   "guided": 0.12114218238419838,
+   "targeted": 0.14416832161451346,
+   "random": 0.11377542805002415
+  },
+  "gap_guided_pp": -0.7366754334174233,
+  "gap_targeted_pp": -3.0392893564489305
+ },
+ {
+  "dataset": "SWaT",
+  "regime": 2,
+  "n_flagged": 194,
+  "n_eval": 21546,
+  "far": {
+   "base": 0.11445279866332497,
+   "guided": 0.15167548500881833,
+   "targeted": 0.026176552492341965,
+   "random": 0.13088276246170982
+  },
+  "gap_guided_pp": -2.079272254710851,
+  "gap_targeted_pp": 10.470620996936786
+ },
+ {
+  "dataset": "SWaT",
+  "regime": 5,
+  "n_flagged": 195,
+  "n_eval": 11437,
+  "far": {
+   "base": 0.9378333479059194,
+   "guided": 0.8874704905132464,
+   "targeted": 0.2862638803882137,
+   "random": 0.87243158170849
+  },
+  "gap_guided_pp": -1.5038908804756446,
+  "gap_targeted_pp": 58.61677013202763
+ },
+ {
+  "dataset": "SWaT",
+  "regime": 6,
+  "n_flagged": 119,
+  "n_eval": 24907,
+  "far": {
+   "base": 0.47380254546914524,
+   "guided": 0.4430481390773678,
+   "targeted": 0.40317982896374516,
+   "random": 0.4280322800819047
+  },
+  "gap_guided_pp": -1.5015858995463094,
+  "gap_targeted_pp": 2.4852451118159538
+ },
+ {
+  "dataset": "SWaT",
+  "regime": 7,
+  "n_flagged": 8,
+  "n_eval": 819,
+  "far": {
+   "base": 0.3333333333333333,
+   "guided": 0.32722832722832723,
+   "targeted": 0.5897435897435898,
+   "random": 0.38095238095238093
+  },
+  "gap_guided_pp": 5.37240537240537,
+  "gap_targeted_pp": -20.879120879120883
+ },
+ {
+  "dataset": "SMD",
+  "regime": 1,
+  "n_flagged": 125,
+  "n_eval": 2548,
+  "far": {
+   "base": 0.6067503924646782,
+   "guided": 0.49921507064364207,
+   "targeted": 0.02511773940345369,
+   "random": 0.6377551020408163
+  },
+  "gap_guided_pp": 13.854003139717424,
+  "gap_targeted_pp": 61.263736263736256
+ },
+ {
+  "dataset": "SMD",
+  "regime": 2,
+  "n_flagged": 183,
+  "n_eval": 4912,
+  "far": {
+   "base": 0.7294381107491856,
+   "guided": 0.6917752442996743,
+   "targeted": 0.5506921824104235,
+   "random": 0.7241449511400652
+  },
+  "gap_guided_pp": 3.2369706840390866,
+  "gap_targeted_pp": 17.345276872964167
+ },
+ {
+  "dataset": "SMD",
+  "regime": 6,
+  "n_flagged": 166,
+  "n_eval": 12620,
+  "far": {
+   "base": 0.07606973058637084,
+   "guided": 0.0401743264659271,
+   "targeted": 0.04009508716323296,
+   "random": 0.0294770206022187
+  },
+  "gap_guided_pp": -1.0697305863708402,
+  "gap_targeted_pp": -1.0618066561014265
+ },
+ {
+  "dataset": "SMD",
+  "regime": 7,
+  "n_flagged": 83,
+  "n_eval": 425,
+  "far": {
+   "base": 0.43058823529411766,
+   "guided": 0.4964705882352941,
+   "targeted": 0.1388235294117647,
+   "random": 0.33176470588235296
+  },
+  "gap_guided_pp": -16.470588235294116,
+  "gap_targeted_pp": 19.294117647058822
+ },
+ {
+  "dataset": "MetroPT3",
+  "regime": 1,
+  "n_flagged": 192,
+  "n_eval": 2637,
+  "far": {
+   "base": 0.751232461130072,
+   "guided": 0.646188850967008,
+   "targeted": 0.0,
+   "random": 0.5164960182025028
+  },
+  "gap_guided_pp": -12.969283276450517,
+  "gap_targeted_pp": 51.64960182025028
+ },
+ {
+  "dataset": "MetroPT3",
+  "regime": 3,
+  "n_flagged": 228,
+  "n_eval": 37184,
+  "far": {
+   "base": 0.8202721600688468,
+   "guided": 0.6413242254733219,
+   "targeted": 0.0,
+   "random": 0.6037274096385542
+  },
+  "gap_guided_pp": -3.7596815834767705,
+  "gap_targeted_pp": 60.37274096385542
+ },
+ {
+  "dataset": "MetroPT3",
+  "regime": 4,
+  "n_flagged": 188,
+  "n_eval": 174192,
+  "far": {
+   "base": 0.05989368053641958,
+   "guided": 0.08263295673739322,
+   "targeted": 4.018554239000643e-05,
+   "random": 0.00041907779921006706
+  },
+  "gap_guided_pp": -8.221387893818315,
+  "gap_targeted_pp": 0.037889225682006394
+ },
+ {
+  "dataset": "MetroPT3",
+  "regime": 6,
+  "n_flagged": 228,
+  "n_eval": 47987,
+  "far": {
+   "base": 0.6514264279909142,
+   "guided": 0.6315460437201742,
+   "targeted": 0.022631129264175716,
+   "random": 0.553962531518953
+  },
+  "gap_guided_pp": -7.758351220122117,
+  "gap_targeted_pp": 53.133140225477725
+ },
+ {
+  "dataset": "MetroPT3",
+  "regime": 7,
+  "n_flagged": 176,
+  "n_eval": 347561,
+  "far": {
+   "base": 0.09409858988781826,
+   "guided": 0.11024539577225292,
+   "targeted": 0.08165760830472925,
+   "random": 0.08071964345827064
+  },
+  "gap_guided_pp": -2.9525752313982285,
+  "gap_targeted_pp": -0.0937964846458611
+ }
+]

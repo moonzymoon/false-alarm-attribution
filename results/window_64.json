@@ -1,0 +1,114 @@
+{
+ "SWaT": {
+  "iforest_SWaT_mix_regime0": {
+   "GlobalCF": {
+    "layer1_macro_f1": 0.758288965564518,
+    "layer2_top1": 0.6545454545454545
+   },
+   "RC-CA": {
+    "layer1_macro_f1": 0.710160605808438,
+    "layer2_top1": 0.7090909090909091
+   },
+   "AERec": {
+    "layer1_macro_f1": 0.8360566448801743,
+    "layer2_top1": 0.7272727272727273
+   },
+   "zDev": {
+    "layer1_macro_f1": 0.7675992902961649,
+    "layer2_top1": 0.2727272727272727
+   }
+  },
+  "iforest_SWaT_mix_regime2": {
+   "GlobalCF": {
+    "layer1_macro_f1": 0.8438552459403222,
+    "layer2_top1": 0.3541666666666667
+   },
+   "RC-CA": {
+    "layer1_macro_f1": 0.7480449144431216,
+    "layer2_top1": 0.1875
+   },
+   "AERec": {
+    "layer1_macro_f1": 0.8484343100324927,
+    "layer2_top1": 0.7291666666666666
+   },
+   "zDev": {
+    "layer1_macro_f1": 0.7343915343915344,
+    "layer2_top1": 0.3125
+   }
+  },
+  "iforest_SWaT_mix_regime3": {
+   "GlobalCF": {
+    "layer1_macro_f1": 0.5226808905380333,
+    "layer2_top1": 0.7291666666666666
+   },
+   "RC-CA": {
+    "layer1_macro_f1": 0.6358151966399389,
+    "layer2_top1": 0.6875
+   },
+   "AERec": {
+    "layer1_macro_f1": 0.9017777280858676,
+    "layer2_top1": 1.0
+   },
+   "zDev": {
+    "layer1_macro_f1": 0.42127799736495386,
+    "layer2_top1": 0.6458333333333334
+   }
+  }
+ },
+ "SMD": {
+  "iforest_SMD_mix_regime3": {
+   "GlobalCF": {
+    "layer1_macro_f1": 0.7186147186147186,
+    "layer2_top1": 0.7166666666666667
+   },
+   "RC-CA": {
+    "layer1_macro_f1": 0.7134205426356589,
+    "layer2_top1": 0.25
+   },
+   "AERec": {
+    "layer1_macro_f1": 0.6913759689922481,
+    "layer2_top1": 0.5666666666666667
+   },
+   "zDev": {
+    "layer1_macro_f1": 0.3724137931034483,
+    "layer2_top1": 0.16666666666666666
+   }
+  },
+  "iforest_SMD_mix_regime5": {
+   "GlobalCF": {
+    "layer1_macro_f1": 0.886420342942082,
+    "layer2_top1": 0.4838709677419355
+   },
+   "RC-CA": {
+    "layer1_macro_f1": 0.8248701460143394,
+    "layer2_top1": 0.489247311827957
+   },
+   "AERec": {
+    "layer1_macro_f1": 0.5673892052076049,
+    "layer2_top1": 0.45698924731182794
+   },
+   "zDev": {
+    "layer1_macro_f1": 0.5788584791269704,
+    "layer2_top1": 0.08064516129032258
+   }
+  },
+  "iforest_SMD_mix_regime6": {
+   "GlobalCF": {
+    "layer1_macro_f1": 0.5360353367861024,
+    "layer2_top1": 0.6046511627906976
+   },
+   "RC-CA": {
+    "layer1_macro_f1": 0.7715163793222255,
+    "layer2_top1": 0.40310077519379844
+   },
+   "AERec": {
+    "layer1_macro_f1": 0.7707058343533252,
+    "layer2_top1": 0.6356589147286822
+   },
+   "zDev": {
+    "layer1_macro_f1": 0.3499339027862518,
+    "layer2_top1": 0.0
+   }
+  }
+ }
+}

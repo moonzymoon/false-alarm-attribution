@@ -1,0 +1,596 @@
+[
+ {
+  "key": "mishra2026condattr",
+  "type": "inproceedings",
+  "title": "Conditional Attribution for Root Cause Analysis in Time-Series Anomaly Detection",
+  "author": "Mishra",
+  "year": "2026",
+  "venue": "Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)",
+  "match": {
+   "doi": "10.24124/2026/30734",
+   "ct": "A continual and adaptive fine-tuning root cause analysis framework for network diagnosis w",
+   "year": null,
+   "sim": 0.604,
+   "year_ok": false,
+   "au_ok": true
+  },
+  "score": 0.362,
+  "accept": false
+ },
+ {
+  "key": "goh2017swat",
+  "type": "inproceedings",
+  "title": "A Dataset to Support Research in the Design of Secure Water Treatment Systems",
+  "author": "Goh",
+  "year": "2017",
+  "venue": "Critical Information Infrastructures Security (CRITIS)",
+  "match": {
+   "doi": "10.1007/978-3-319-71368-7_8",
+   "ct": "A Dataset to Support Research in the Design of Secure Water Treatment Systems",
+   "year": 2017,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "mathur2016swat",
+  "type": "inproceedings",
+  "title": "SWaT: A Water Treatment Testbed for Research and Training on ICS Security",
+  "author": "Mathur",
+  "year": "2016",
+  "venue": "Proc. CySWater",
+  "match": {
+   "doi": "10.1109/cyswater.2016.7469060",
+   "ct": "SWaT: a water treatment testbed for research and training on ICS security",
+   "year": 2016,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "su2019smd",
+  "type": "inproceedings",
+  "title": "Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network",
+  "author": "Su",
+  "year": "2019",
+  "venue": "Proc. KDD",
+  "match": {
+   "doi": "10.1145/3292500.3330672",
+   "ct": "Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural ",
+   "year": 2019,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "marques2024metropt3",
+  "type": "misc",
+  "title": "MetroPT 3 Dataset (UCI Machine Learning Repository, dataset 791)",
+  "author": "Marques",
+  "year": "2024",
+  "venue": null,
+  "match": {
+   "doi": "10.7717/peerj-cs.1806/table-3",
+   "ct": "Table 3: Health datasets from UCI machine learning repository.",
+   "year": null,
+   "sim": 0.711,
+   "year_ok": false,
+   "au_ok": true
+  },
+  "score": 0.426,
+  "accept": false
+ },
+ {
+  "key": "xu2022at",
+  "type": "inproceedings",
+  "title": "Anomaly Transformer: Anomaly Detection with Association Discrepancy",
+  "author": "Xu",
+  "year": "2022",
+  "venue": "Proc. ICLR",
+  "match": {
+   "doi": "10.1109/ictai66417.2025.00086",
+   "ct": "Sparse Transformer for Anomaly Detection with Association Discrepancy",
+   "year": 2025,
+   "sim": 0.889,
+   "year_ok": false,
+   "au_ok": false
+  },
+  "score": 0.267,
+  "accept": false
+ },
+ {
+  "key": "liu2008iforest",
+  "type": "inproceedings",
+  "title": "Isolation Forest",
+  "author": "Liu",
+  "year": "2008",
+  "venue": "Proc. ICDM",
+  "match": {
+   "doi": "10.1109/icdm.2008.17",
+   "ct": "Isolation Forest",
+   "year": 2008,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "mcinnes2018umap",
+  "type": "article",
+  "title": "UMAP: Uniform Manifold Approximation and Projection",
+  "author": "McInnes",
+  "year": "2018",
+  "venue": "Journal of Open Source Software",
+  "match": {
+   "doi": "10.21105/joss.00861",
+   "ct": "UMAP: Uniform Manifold Approximation and Projection",
+   "year": 2018,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "kingma2014vae",
+  "type": "inproceedings",
+  "title": "Auto-Encoding Variational Bayes",
+  "author": "Kingma",
+  "year": "2014",
+  "venue": "International Conference on Learning Representations (ICLR)",
+  "match": {
+   "doi": "10.61603/ceas.v2i1.33",
+   "ct": "Auto-Encoding Variational Bayes",
+   "year": 2024,
+   "sim": 1.0,
+   "year_ok": false,
+   "au_ok": false
+  },
+  "score": 0.3,
+  "accept": false
+ },
+ {
+  "key": "ilse2018attention",
+  "type": "inproceedings",
+  "title": "Attention-based Deep Multiple Instance Learning",
+  "author": "Ilse",
+  "year": "2018",
+  "venue": "Proc. ICML",
+  "match": {
+   "doi": "10.37473/dac/10.1101/2020.04.12.038158",
+   "ct": "DeepRC: Immune repertoire classification with attention-based deep massive multiple instan",
+   "year": null,
+   "sim": 0.634,
+   "year_ok": false,
+   "au_ok": true
+  },
+  "score": 0.381,
+  "accept": false
+ },
+ {
+  "key": "wachter2018counterfactual",
+  "type": "article",
+  "title": "Counterfactual Explanations without Opening the Black Box",
+  "author": "Wachter",
+  "year": "2018",
+  "venue": "Harvard Journal of Law & Technology",
+  "match": {
+   "doi": "10.2139/ssrn.3063289",
+   "ct": "Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDP",
+   "year": 2017,
+   "sim": 0.776,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 0.776,
+  "accept": false
+ },
+ {
+  "key": "lundberg2017shap",
+  "type": "inproceedings",
+  "title": "A Unified Approach to Interpreting Model Predictions",
+  "author": "Lundberg",
+  "year": "2017",
+  "venue": "Proc. NeurIPS",
+  "match": {
+   "doi": "10.1021/acs.jcim.1c01467.s001",
+   "ct": "Unified Deep Learning Model for Multitask Reaction Predictions with Explanation",
+   "year": null,
+   "sim": 0.473,
+   "year_ok": false,
+   "au_ok": true
+  },
+  "score": 0.284,
+  "accept": false
+ },
+ {
+  "key": "bento2021timeshap",
+  "type": "inproceedings",
+  "title": "TimeSHAP: Explaining RECURRENT Models through Sequence Perturbations",
+  "author": "Bento",
+  "year": "2021",
+  "venue": "Proc. KDD",
+  "match": {
+   "doi": "10.1145/3447548.3467166",
+   "ct": "TimeSHAP: Explaining Recurrent Models through Sequence Perturbations",
+   "year": 2021,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "granger1969",
+  "type": "article",
+  "title": "Investigating Causal Relations by Econometric Models and Cross-spectral Methods",
+  "author": "Granger",
+  "year": "1969",
+  "venue": "Econometrica",
+  "match": {
+   "doi": "10.2307/1912791",
+   "ct": "Investigating Causal Relations by Econometric Models and Cross-spectral Methods",
+   "year": 1969,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "cummins2024whatif",
+  "type": "article",
+  "title": "Explainable Anomaly Detection: Counterfactual driven What-If Analysis",
+  "author": "Cummins",
+  "year": "2024",
+  "venue": "arXiv preprint arXiv:2408.11935",
+  "match": {
+   "doi": "10.1109/cogmi62246.2024.00028",
+   "ct": "Explainable Anomaly Detection: Counterfactual driven What-If Analysis",
+   "year": 2024,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "liu2024contralsp",
+  "type": "inproceedings",
+  "title": "ContraLSP: Counterfactual Logic Learning for Interpretable and Efficient Time-Series Classification",
+  "author": "Liu",
+  "year": "2024",
+  "venue": "Proc. ICLR",
+  "match": {
+   "doi": "10.1109/icde.2018.00052",
+   "ct": "Efficient Learning Interpretable Shapelets for Accurate Time Series Classification",
+   "year": 2018,
+   "sim": 0.648,
+   "year_ok": false,
+   "au_ok": false
+  },
+  "score": 0.194,
+  "accept": false
+ },
+ {
+  "key": "redlamp2025",
+  "type": "inproceedings",
+  "title": "Robust and Explainable Detector of Time Series Anomaly via Augmenting Multiclass Pseudo-Anomalies",
+  "author": "Obata",
+  "year": "2025",
+  "venue": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)",
+  "match": {
+   "doi": "10.1145/3711896.3737110",
+   "ct": "Robust and Explainable Detector of Time Series Anomaly via Augmenting Multiclass Pseudo-An",
+   "year": 2025,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "schemmer2023evaluation",
+  "type": "article",
+  "title": "Evaluating the Robustness of Decision-Focused Sensor Placement",
+  "author": "Schemmer",
+  "year": "2023",
+  "venue": "arXiv preprint arXiv:2302.03302",
+  "match": {
+   "doi": "10.1061/(asce)wr.1943-5452.0001596",
+   "ct": "Evaluating the Robustness of Water Quality Sensor Placement Strategies of Water Distributi",
+   "year": 2022,
+   "sim": 0.442,
+   "year_ok": true,
+   "au_ok": false
+  },
+  "score": 0.221,
+  "accept": false
+ },
+ {
+  "key": "trifunov2021mts",
+  "type": "inproceedings",
+  "title": "Anomaly Attribution of Multivariate Time Series using Counterfactual Reasoning",
+  "author": "Trifunov",
+  "year": "2021",
+  "venue": "2020/2021 IEEE International Conference on Machine Learning and Applications (ICMLA)",
+  "match": {
+   "doi": "10.1109/icmla52953.2021.00033",
+   "ct": "Anomaly Attribution of Multivariate Time Series using Counterfactual Reasoning",
+   "year": 2021,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "kim2026candi",
+  "type": "inproceedings",
+  "title": "CANDI: Curated Test-Time Adaptation for Multivariate Time-Series Anomaly Detection under Distribution Shift",
+  "author": "Kim",
+  "year": "2026",
+  "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+  "match": {
+   "doi": "10.1609/aaai.v40i17.38524",
+   "ct": "CANDI: Curated Test-Time Adaptation for Multivariate Time-Series Anomaly Detection Under D",
+   "year": 2026,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "guidotti2018survey",
+  "type": "article",
+  "title": "A Survey of Methods for Explaining Black Box Models",
+  "author": "Guidotti",
+  "year": "2018",
+  "venue": "ACM Computing Surveys",
+  "match": {
+   "doi": "10.1145/3236009",
+   "ct": "A Survey of Methods for Explaining Black Box Models",
+   "year": 2019,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "arrieta2020xai",
+  "type": "article",
+  "title": "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI",
+  "author": "Barredo Arrieta",
+  "year": "2020",
+  "venue": "Information Fusion",
+  "match": {
+   "doi": "10.1016/j.inffus.2019.12.012",
+   "ct": "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challen",
+   "year": 2020,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "isa182",
+  "type": "misc",
+  "title": "Management of Alarm Systems for the Process Industries (ANSI/ISA-18.2-2016)",
+  "author": "International Society of Automation",
+  "year": "2016",
+  "venue": null,
+  "match": {
+   "doi": "10.3403/30400797",
+   "ct": "Management of alarm systems for the process industries",
+   "year": null,
+   "sim": 0.878,
+   "year_ok": false,
+   "au_ok": true
+  },
+  "score": 0.527,
+  "accept": false
+ },
+ {
+  "key": "pedregosa2011sklearn",
+  "type": "inproceedings",
+  "title": "Scikit-learn: Machine Learning in Python",
+  "author": "Pedregosa",
+  "year": "2011",
+  "venue": "Journal of Machine Learning Research",
+  "match": {
+   "doi": "10.1002/9781119557500.ch5",
+   "ct": "Getting Started with Scikit‐learn for Machine Learning",
+   "year": 2019,
+   "sim": 0.615,
+   "year_ok": false,
+   "au_ok": true
+  },
+  "score": 0.369,
+  "accept": false
+ },
+ {
+  "key": "zhang2022mts",
+  "type": "inproceedings",
+  "title": "CETVAE: Contrastive Explanations for Time Series Anomaly Detection",
+  "author": "H\"ollig",
+  "year": "2023",
+  "venue": "Proc. ICLR",
+  "match": {
+   "doi": "10.2139/ssrn.4538474",
+   "ct": "Contrastive Learning for Multivariate Time Series Anomaly Detection",
+   "year": 2023,
+   "sim": 0.773,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 0.773,
+  "accept": false
+ },
+ {
+  "key": "quijada2026contrastive",
+  "type": "article",
+  "title": "Time series anomaly detection models with contrastive representation learning",
+  "author": "Quijada",
+  "year": "2026",
+  "venue": "Journal of Intelligent Information Systems",
+  "match": {
+   "doi": "10.1007/s10844-026-01078-z",
+   "ct": "Time series anomaly detection models with contrastive representation learning",
+   "year": 2026,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "giannoulidis2026explainable",
+  "type": "article",
+  "title": "Explainable contextualized anomaly detection for heterogeneous time series",
+  "author": "Giannoulidis",
+  "year": "2026",
+  "venue": "Journal of Intelligent Information Systems",
+  "match": {
+   "doi": "10.1007/s10844-026-01087-y",
+   "ct": "Explainable contextualized anomaly detection for heterogeneous time series",
+   "year": 2026,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "abdulaal2021psm",
+  "type": "inproceedings",
+  "title": "Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization",
+  "author": "Abdulaal",
+  "year": "2021",
+  "venue": "Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+  "match": {
+   "doi": "10.1145/3447548.3467174",
+   "ct": "Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localiza",
+   "year": 2021,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "hundman2019smap",
+  "type": "inproceedings",
+  "title": "Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding",
+  "author": "Hundman",
+  "year": "2018",
+  "venue": "Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+  "match": {
+   "doi": "10.1145/3219819.3219845",
+   "ct": "Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding",
+   "year": 2018,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "liu2024tsbad",
+  "type": "inproceedings",
+  "title": "The Elephant in the Room: Towards A Reliable Time-Series Anomaly Detection Benchmark",
+  "author": "Liu",
+  "year": "2024",
+  "venue": "Advances in Neural Information Processing Systems 37, Datasets and Benchmarks Track",
+  "match": {
+   "doi": "10.52202/079017-3437",
+   "ct": "The Elephant in the Room: Towards A Reliable Time-Series Anomaly Detection Benchmark",
+   "year": 2024,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "faber2025pyclad",
+  "type": "article",
+  "title": "pyCLAD: The universal framework for continual lifelong anomaly detection",
+  "author": "Faber",
+  "year": "2025",
+  "venue": "SoftwareX",
+  "match": {
+   "doi": "10.1016/j.softx.2024.101994",
+   "ct": "pyCLAD: The universal framework for continual lifelong anomaly detection",
+   "year": 2025,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "yang2026timera",
+  "type": "inproceedings",
+  "title": "Time-RA: Towards Time Series Reasoning for Anomaly Diagnosis with LLM Feedback",
+  "author": "Yang",
+  "year": "2026",
+  "venue": "Findings of the Association for Computational Linguistics: ACL",
+  "match": {
+   "doi": "10.18653/v1/2026.findings-acl.562",
+   "ct": "Time-RA: Towards Time Series Reasoning for Anomaly Diagnosis with LLM Feedback",
+   "year": 2026,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ },
+ {
+  "key": "zhang2024atin",
+  "type": "article",
+  "title": "ATIN: Attention-embedded time-aware imputation networks for production data anomaly detection",
+  "author": "Zhang",
+  "year": "2024",
+  "venue": "Intelligent Data Analysis",
+  "match": {
+   "doi": "10.3233/ida-230301",
+   "ct": "ATIN: Attention-embedded time-aware imputation networks for production data anomaly detect",
+   "year": 2024,
+   "sim": 1.0,
+   "year_ok": true,
+   "au_ok": true
+  },
+  "score": 1.0,
+  "accept": true
+ }
+]

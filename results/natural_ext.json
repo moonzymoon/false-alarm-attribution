@@ -1,0 +1,46 @@
+{
+ "PSM": {
+  "RC-CA": {
+   "mode_frac": 0.0175,
+   "n": 400
+  },
+  "GlobalCF": {
+   "mode_frac": 0.045,
+   "n": 400
+  },
+  "CondAttr": {
+   "mode_frac": 0.0575,
+   "n": 400
+  },
+  "AERec": {
+   "mode_frac": 0.1325,
+   "n": 400
+  },
+  "zDev": {
+   "mode_frac": 0.085,
+   "n": 400
+  }
+ },
+ "SMAP": {
+  "RC-CA": {
+   "mode_frac": 0.6725,
+   "n": 400
+  },
+  "GlobalCF": {
+   "mode_frac": 0.6625,
+   "n": 400
+  },
+  "CondAttr": {
+   "mode_frac": 0.6375,
+   "n": 400
+  },
+  "AERec": {
+   "mode_frac": 1.0,
+   "n": 400
+  },
+  "zDev": {
+   "mode_frac": 0.44,
+   "n": 400
+  }
+ }
+}

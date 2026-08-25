@@ -1,0 +1,194 @@
+{
+ "regime": {
+  "iforest_SWaT_mix_regime1": {
+   "n_flagged": 89,
+   "n_picked": 89,
+   "far_base": 1.0,
+   "far_guided": 0.8949044585987261,
+   "far_random": 0.7547770700636943,
+   "gap_pp": -14.012738853503182
+  },
+  "iforest_SWaT_mix_regime2": {
+   "n_flagged": 203,
+   "n_picked": 203,
+   "far_base": 1.0,
+   "far_guided": 0.9301310043668122,
+   "far_random": 0.62882096069869,
+   "gap_pp": -30.13100436681222
+  },
+  "iforest_SWaT_mix_regime5": {
+   "n_flagged": 194,
+   "n_picked": 194,
+   "far_base": 1.0,
+   "far_guided": 0.9644444444444444,
+   "far_random": 0.9911111111111112,
+   "gap_pp": 2.6666666666666727
+  },
+  "iforest_SWaT_mix_regime6": {
+   "n_flagged": 158,
+   "n_picked": 158,
+   "far_base": 1.0,
+   "far_guided": 0.9688715953307393,
+   "far_random": 0.9688715953307393,
+   "gap_pp": 0.0
+  },
+  "iforest_SMD_mix_regime1": {
+   "n_flagged": 205,
+   "n_picked": 205,
+   "far_base": 1.0,
+   "far_guided": 0.7592592592592593,
+   "far_random": 0.9768518518518519,
+   "gap_pp": 21.759259259259256
+  },
+  "iforest_SMD_mix_regime2": {
+   "n_flagged": 168,
+   "n_picked": 168,
+   "far_base": 1.0,
+   "far_guided": 0.978448275862069,
+   "far_random": 0.9913793103448276,
+   "gap_pp": 1.2931034482758674
+  },
+  "iforest_SMD_mix_regime6": {
+   "n_flagged": 133,
+   "n_picked": 133,
+   "far_base": 1.0,
+   "far_guided": 0.9018181818181819,
+   "far_random": 0.9636363636363636,
+   "gap_pp": 6.181818181818177
+  },
+  "iforest_SMD_mix_regime7": {
+   "n_flagged": 90,
+   "n_picked": 90,
+   "far_base": 1.0,
+   "far_guided": 0.84375,
+   "far_random": 0.75,
+   "gap_pp": -9.375
+  },
+  "iforest_MetroPT3_mix_regime1": {
+   "n_flagged": 202,
+   "n_picked": 202,
+   "far_base": 0.9196428571428571,
+   "far_guided": 0.9017857142857143,
+   "far_random": 0.7455357142857143,
+   "gap_pp": -15.625
+  },
+  "iforest_MetroPT3_mix_regime3": {
+   "n_flagged": 214,
+   "n_picked": 214,
+   "far_base": 0.973568281938326,
+   "far_guided": 0.9295154185022027,
+   "far_random": 0.9911894273127754,
+   "gap_pp": 6.167400881057272
+  },
+  "iforest_MetroPT3_mix_regime4": {
+   "n_flagged": 199,
+   "n_picked": 199,
+   "far_base": 0.2420091324200913,
+   "far_guided": 0.2328767123287671,
+   "far_random": 0.1872146118721461,
+   "gap_pp": -4.5662100456621
+  },
+  "iforest_MetroPT3_mix_regime6": {
+   "n_flagged": 167,
+   "n_picked": 167,
+   "far_base": 0.8656126482213439,
+   "far_guided": 0.932806324110672,
+   "far_random": 0.932806324110672,
+   "gap_pp": 0.0
+  },
+  "iforest_MetroPT3_mix_regime7": {
+   "n_flagged": 174,
+   "n_picked": 174,
+   "far_base": 0.9288537549407114,
+   "far_guided": 0.9762845849802372,
+   "far_random": 0.8102766798418972,
+   "gap_pp": -16.600790513833996
+  }
+ },
+ "variable": {
+  "iforest_SWaT_mix_regime1": {
+   "guided": 0.9545454545454546,
+   "gt": 0.8181818181818182,
+   "random": 0.045454545454545456,
+   "n": 88
+  },
+  "iforest_SWaT_mix_regime2": {
+   "guided": 0.90625,
+   "gt": 0.6354166666666666,
+   "random": 0.125,
+   "n": 96
+  },
+  "iforest_SWaT_mix_regime5": {
+   "guided": 0.8717948717948718,
+   "gt": 0.5512820512820513,
+   "random": 0.15384615384615385,
+   "n": 78
+  },
+  "iforest_SWaT_mix_regime6": {
+   "guided": 1.0,
+   "gt": 0.7560975609756098,
+   "random": 0.1951219512195122,
+   "n": 41
+  },
+  "iforest_SWaT_mix_regime7": {
+   "guided": 0.7866666666666666,
+   "gt": 0.6533333333333333,
+   "random": 0.06666666666666667,
+   "n": 75
+  },
+  "iforest_SMD_mix_regime1": {
+   "guided": 0.9411764705882353,
+   "gt": 0.5735294117647058,
+   "random": 0.07352941176470588,
+   "n": 68
+  },
+  "iforest_SMD_mix_regime2": {
+   "guided": 0.9420289855072463,
+   "gt": 0.5797101449275363,
+   "random": 0.14492753623188406,
+   "n": 69
+  },
+  "iforest_SMD_mix_regime6": {
+   "guided": 0.8723404255319149,
+   "gt": 0.5531914893617021,
+   "random": 0.10638297872340426,
+   "n": 47
+  },
+  "iforest_SMD_mix_regime7": {
+   "guided": 0.8152173913043478,
+   "gt": 0.717391304347826,
+   "random": 0.13043478260869565,
+   "n": 92
+  },
+  "iforest_MetroPT3_mix_regime1": {
+   "guided": 0.975,
+   "gt": 0.45,
+   "random": 0.125,
+   "n": 40
+  },
+  "iforest_MetroPT3_mix_regime3": {
+   "guided": 0.8695652173913043,
+   "gt": 0.5072463768115942,
+   "random": 0.07246376811594203,
+   "n": 69
+  },
+  "iforest_MetroPT3_mix_regime4": {
+   "guided": 0.8823529411764706,
+   "gt": 0.7205882352941176,
+   "random": 0.07352941176470588,
+   "n": 68
+  },
+  "iforest_MetroPT3_mix_regime6": {
+   "guided": 0.9827586206896551,
+   "gt": 0.8275862068965517,
+   "random": 0.1206896551724138,
+   "n": 116
+  },
+  "iforest_MetroPT3_mix_regime7": {
+   "guided": 0.9215686274509803,
+   "gt": 0.6666666666666666,
+   "random": 0.13725490196078433,
+   "n": 51
+  }
+ }
+}

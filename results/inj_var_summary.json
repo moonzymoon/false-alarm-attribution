@@ -1,0 +1,2442 @@
+{
+ "iforest_SWaT": [
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.01",
+   "n_trials": 20,
+   "valid_rate": 0.25,
+   "mean_fa_rate": 0.017297297297297298,
+   "mean_score_gain": 0.0007883882359782334
+  },
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.05",
+   "n_trials": 20,
+   "valid_rate": 0.3,
+   "mean_fa_rate": 0.025405405405405406,
+   "mean_score_gain": 0.00700834992102521
+  },
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.1",
+   "n_trials": 20,
+   "valid_rate": 0.35,
+   "mean_fa_rate": 0.047837837837837835,
+   "mean_score_gain": 0.007888219576700736
+  },
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.2",
+   "n_trials": 20,
+   "valid_rate": 0.45,
+   "mean_fa_rate": 0.043243243243243246,
+   "mean_score_gain": 0.006986232143931827
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(0, 0.05), (35, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.009649213859498285
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(1, 0.01), (37, 0.2), (0, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.035512895199475925
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(1, 0.05), (27, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.032432432432432434,
+   "mean_score_gain": 0.008537059372447463
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(16, 0.2), (0, 0.1), (28, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.10810810810810811,
+   "mean_score_gain": 0.0043021538014478035
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(17, 0.2), (6, 0.01), (45, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.0013252589032047683
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(26, 0.01), (44, 0.01), (3, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.002771579731579911
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(26, 0.1), (22, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.023315687520551156
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(26, 0.2), (46, 0.01), (39, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.10270270270270271,
+   "mean_score_gain": 0.022876460915191778
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(27, 0.05), (38, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.017448044960142593
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(27, 0.2), (35, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.021621621621621623,
+   "mean_score_gain": 0.017235990994500072
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(28, 0.2), (16, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.006524573746319048
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(28, 0.2), (47, 0.05), (34, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.9837837837837838,
+   "mean_score_gain": 0.0017086113996903948
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(28, 0.2), (7, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.005709918032132981
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(36, 0.2), (1, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.22162162162162163,
+   "mean_score_gain": 0.00044909390814740875
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(40, 0.2), (20, 0.1), (47, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.014248740267526538
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(41, 0.2), (47, 0.05), (38, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.02989889939491693
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(45, 0.2), (34, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.021621621621621623,
+   "mean_score_gain": 0.005773884695184312
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(46, 0.1), (6, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.017996181607926164
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(46, 0.2), (7, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.011611301146779366
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(8, 0.05), (17, 0.2), (3, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.01020079294415571
+  },
+  {
+   "far_target": 0.01,
+   "kind": "stuck",
+   "strength": "1.0",
+   "n_trials": 20,
+   "valid_rate": 0.35,
+   "mean_fa_rate": 0.052972972972972966,
+   "mean_score_gain": 0.00022471632946616257
+  },
+  {
+   "far_target": 0.01,
+   "kind": "var",
+   "strength": "2.0",
+   "n_trials": 20,
+   "valid_rate": 0.35,
+   "mean_fa_rate": 0.03108108108108108,
+   "mean_score_gain": 0.0004368494551778594
+  },
+  {
+   "far_target": 0.01,
+   "kind": "var",
+   "strength": "5.0",
+   "n_trials": 20,
+   "valid_rate": 0.25,
+   "mean_fa_rate": 0.014324324324324325,
+   "mean_score_gain": 0.0029343469595449648
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.01",
+   "n_trials": 20,
+   "valid_rate": 0.65,
+   "mean_fa_rate": 0.055405405405405395,
+   "mean_score_gain": 0.0007883882359782334
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.05",
+   "n_trials": 20,
+   "valid_rate": 0.6,
+   "mean_fa_rate": 0.1254054054054054,
+   "mean_score_gain": 0.00700834992102521
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.1",
+   "n_trials": 20,
+   "valid_rate": 0.55,
+   "mean_fa_rate": 0.10324324324324326,
+   "mean_score_gain": 0.007888219576700736
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.2",
+   "n_trials": 20,
+   "valid_rate": 0.55,
+   "mean_fa_rate": 0.16513513513513514,
+   "mean_score_gain": 0.006986232143931827
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(0, 0.05), (35, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.009649213859498285
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(1, 0.01), (37, 0.2), (0, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.035512895199475925
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(1, 0.05), (27, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.10810810810810811,
+   "mean_score_gain": 0.008537059372447463
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(16, 0.2), (0, 0.1), (28, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.14594594594594595,
+   "mean_score_gain": 0.0043021538014478035
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(17, 0.2), (6, 0.01), (45, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.03783783783783784,
+   "mean_score_gain": -0.0013252589032047683
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(26, 0.01), (44, 0.01), (3, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.03783783783783784,
+   "mean_score_gain": 0.002771579731579911
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(26, 0.1), (22, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.023315687520551156
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(26, 0.2), (46, 0.01), (39, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.14594594594594595,
+   "mean_score_gain": 0.022876460915191778
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(27, 0.05), (38, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.017448044960142593
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(27, 0.2), (35, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.04864864864864865,
+   "mean_score_gain": 0.017235990994500072
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(28, 0.2), (16, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.006524573746319048
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(28, 0.2), (47, 0.05), (34, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 1.0,
+   "mean_score_gain": 0.0017086113996903948
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(28, 0.2), (7, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.021621621621621623,
+   "mean_score_gain": 0.005709918032132981
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(36, 0.2), (1, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.6864864864864865,
+   "mean_score_gain": 0.00044909390814740875
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(40, 0.2), (20, 0.1), (47, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.014248740267526538
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(41, 0.2), (47, 0.05), (38, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.02989889939491693
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(45, 0.2), (34, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.41081081081081083,
+   "mean_score_gain": 0.005773884695184312
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(46, 0.1), (6, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.017996181607926164
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(46, 0.2), (7, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.011611301146779366
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(8, 0.05), (17, 0.2), (3, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.016216216216216217,
+   "mean_score_gain": -0.01020079294415571
+  },
+  {
+   "far_target": 0.05,
+   "kind": "stuck",
+   "strength": "1.0",
+   "n_trials": 20,
+   "valid_rate": 0.65,
+   "mean_fa_rate": 0.09972972972972974,
+   "mean_score_gain": 0.00022471632946616257
+  },
+  {
+   "far_target": 0.05,
+   "kind": "var",
+   "strength": "2.0",
+   "n_trials": 20,
+   "valid_rate": 0.6,
+   "mean_fa_rate": 0.12162162162162163,
+   "mean_score_gain": 0.0004368494551778594
+  },
+  {
+   "far_target": 0.05,
+   "kind": "var",
+   "strength": "5.0",
+   "n_trials": 20,
+   "valid_rate": 0.45,
+   "mean_fa_rate": 0.037567567567567565,
+   "mean_score_gain": 0.0029343469595449648
+  }
+ ],
+ "iforest_SMD": [
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.01",
+   "n_trials": 20,
+   "valid_rate": 0.05,
+   "mean_fa_rate": 0.005945945945945946,
+   "mean_score_gain": 0.005453374804213694
+  },
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.05",
+   "n_trials": 20,
+   "valid_rate": 0.15,
+   "mean_fa_rate": 0.08351351351351352,
+   "mean_score_gain": 0.014260139125982165
+  },
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.1",
+   "n_trials": 20,
+   "valid_rate": 0.25,
+   "mean_fa_rate": 0.10864864864864865,
+   "mean_score_gain": 0.013005356560755498
+  },
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.2",
+   "n_trials": 20,
+   "valid_rate": 0.35,
+   "mean_fa_rate": 0.17513513513513515,
+   "mean_score_gain": 0.013760614565440536
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(0, 0.05), (23, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.033751155993992664
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(1, 0.01), (25, 0.2), (0, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.028836466103062095
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(1, 0.05), (20, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.03389677753754601
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(10, 0.2), (0, 0.1), (21, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.030534642660149155
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(11, 0.2), (5, 0.01), (33, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.024184687017530026
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(18, 0.01), (32, 0.01), (2, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.016745154038264064
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(18, 0.2), (19, 0.01), (27, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.04992058510743487
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(19, 0.1), (15, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.043243243243243246,
+   "mean_score_gain": 0.01555202548329733
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(19, 0.2), (23, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.02117479375620546
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(20, 0.05), (27, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.05040920929320476
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(20, 0.2), (35, 0.05), (21, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.06659825212837107
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(20, 0.2), (5, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.020300929141614143
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(21, 0.2), (10, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.2756756756756757,
+   "mean_score_gain": 0.018529866635887387
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(24, 0.2), (1, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.05991447584245375
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(30, 0.2), (13, 0.1), (35, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.0769130811920322
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(31, 0.2), (35, 0.05), (27, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.016141101800613677
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(33, 0.2), (22, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.020876158034173725
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(34, 0.1), (3, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.035180583530711226
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(34, 0.2), (5, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.024167152092806943
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(6, 0.05), (12, 0.2), (3, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.021409840962029806
+  },
+  {
+   "far_target": 0.01,
+   "kind": "stuck",
+   "strength": "1.0",
+   "n_trials": 20,
+   "valid_rate": 0.3,
+   "mean_fa_rate": 0.10135135135135134,
+   "mean_score_gain": -7.731412813708437e-05
+  },
+  {
+   "far_target": 0.01,
+   "kind": "var",
+   "strength": "2.0",
+   "n_trials": 20,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.0034751318492590756
+  },
+  {
+   "far_target": 0.01,
+   "kind": "var",
+   "strength": "5.0",
+   "n_trials": 20,
+   "valid_rate": 0.2,
+   "mean_fa_rate": 0.10162162162162161,
+   "mean_score_gain": 0.004262572684119304
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.01",
+   "n_trials": 20,
+   "valid_rate": 0.15,
+   "mean_fa_rate": 0.060810810810810814,
+   "mean_score_gain": 0.005453374804213694
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.05",
+   "n_trials": 20,
+   "valid_rate": 0.2,
+   "mean_fa_rate": 0.11324324324324327,
+   "mean_score_gain": 0.014260139125982165
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.1",
+   "n_trials": 20,
+   "valid_rate": 0.25,
+   "mean_fa_rate": 0.14459459459459462,
+   "mean_score_gain": 0.013005356560755498
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.2",
+   "n_trials": 20,
+   "valid_rate": 0.35,
+   "mean_fa_rate": 0.21054054054054056,
+   "mean_score_gain": 0.013760614565440536
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(0, 0.05), (23, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.033751155993992664
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(1, 0.01), (25, 0.2), (0, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.028836466103062095
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(1, 0.05), (20, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.03389677753754601
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(10, 0.2), (0, 0.1), (21, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.030534642660149155
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(11, 0.2), (5, 0.01), (33, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.024184687017530026
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(18, 0.01), (32, 0.01), (2, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.016745154038264064
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(18, 0.2), (19, 0.01), (27, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.04992058510743487
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(19, 0.1), (15, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.10810810810810811,
+   "mean_score_gain": 0.01555202548329733
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(19, 0.2), (23, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.02117479375620546
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(20, 0.05), (27, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.05040920929320476
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(20, 0.2), (35, 0.05), (21, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.06659825212837107
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(20, 0.2), (5, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.020300929141614143
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(21, 0.2), (10, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.33513513513513515,
+   "mean_score_gain": 0.018529866635887387
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(24, 0.2), (1, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.05991447584245375
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(30, 0.2), (13, 0.1), (35, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.0769130811920322
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(31, 0.2), (35, 0.05), (27, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.3783783783783784,
+   "mean_score_gain": 0.016141101800613677
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(33, 0.2), (22, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.020876158034173725
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(34, 0.1), (3, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.035180583530711226
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(34, 0.2), (5, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.024167152092806943
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(6, 0.05), (12, 0.2), (3, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.021409840962029806
+  },
+  {
+   "far_target": 0.05,
+   "kind": "stuck",
+   "strength": "1.0",
+   "n_trials": 20,
+   "valid_rate": 0.3,
+   "mean_fa_rate": 0.15243243243243246,
+   "mean_score_gain": -7.731412813708437e-05
+  },
+  {
+   "far_target": 0.05,
+   "kind": "var",
+   "strength": "2.0",
+   "n_trials": 20,
+   "valid_rate": 0.1,
+   "mean_fa_rate": 0.001081081081081081,
+   "mean_score_gain": 0.0034751318492590756
+  },
+  {
+   "far_target": 0.05,
+   "kind": "var",
+   "strength": "5.0",
+   "n_trials": 20,
+   "valid_rate": 0.2,
+   "mean_fa_rate": 0.1654054054054054,
+   "mean_score_gain": 0.004262572684119304
+  }
+ ],
+ "iforest_MetroPT3": [
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.01",
+   "n_trials": 20,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.006602487473164014
+  },
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.05",
+   "n_trials": 20,
+   "valid_rate": 0.05,
+   "mean_fa_rate": 0.0005405405405405405,
+   "mean_score_gain": 0.01734627456771152
+  },
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.1",
+   "n_trials": 20,
+   "valid_rate": 0.05,
+   "mean_fa_rate": 0.0002702702702702703,
+   "mean_score_gain": 0.024669204704896773
+  },
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.2",
+   "n_trials": 20,
+   "valid_rate": 0.05,
+   "mean_fa_rate": 0.006756756756756757,
+   "mean_score_gain": 0.021829149676738956
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(0, 0.01), (10, 0.2), (13, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.022660480678712357
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(0, 0.05), (7, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.0898002085026127
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(0, 0.05), (9, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.06555470572708526
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(11, 0.2), (14, 0.05), (10, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.01686152513490281
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(11, 0.2), (5, 0.1), (12, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.03060924915199948
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(13, 0.1), (1, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.03781091119735739
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(13, 0.2), (14, 0.05), (8, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.016874877192584806
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(13, 0.2), (2, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.016834258021867367
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(13, 0.2), (9, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.0007919051281645582
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(2, 0.05), (4, 0.2), (1, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.09988670829009434
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(3, 0.2), (0, 0.1), (8, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.17128452036090458
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(4, 0.2), (2, 0.01), (12, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.038110344081310955
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(6, 0.2), (7, 0.01), (11, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.06519327673265247
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(7, 0.01), (12, 0.01), (1, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.023673825756379597
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(7, 0.1), (6, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.04539737966640896
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(7, 0.2), (9, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.0009021448264029529
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(8, 0.05), (10, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.016243544798186363
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(8, 0.2), (2, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.07250274922383292
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(8, 0.2), (4, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.07423409444456928
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(9, 0.2), (0, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.061883684277669576
+  },
+  {
+   "far_target": 0.01,
+   "kind": "stuck",
+   "strength": "1.0",
+   "n_trials": 20,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.006885877501492874
+  },
+  {
+   "far_target": 0.01,
+   "kind": "var",
+   "strength": "2.0",
+   "n_trials": 20,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.008131787332012419
+  },
+  {
+   "far_target": 0.01,
+   "kind": "var",
+   "strength": "5.0",
+   "n_trials": 20,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 0.010430332210691033
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.01",
+   "n_trials": 20,
+   "valid_rate": 0.95,
+   "mean_fa_rate": 0.12675675675675674,
+   "mean_score_gain": 0.006602487473164014
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.05",
+   "n_trials": 20,
+   "valid_rate": 0.8,
+   "mean_fa_rate": 0.21054054054054056,
+   "mean_score_gain": 0.01734627456771152
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.1",
+   "n_trials": 20,
+   "valid_rate": 0.9,
+   "mean_fa_rate": 0.05324324324324324,
+   "mean_score_gain": 0.024669204704896773
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.2",
+   "n_trials": 20,
+   "valid_rate": 0.8,
+   "mean_fa_rate": 0.08459459459459459,
+   "mean_score_gain": 0.021829149676738956
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(0, 0.01), (10, 0.2), (13, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 1.0,
+   "mean_score_gain": 0.022660480678712357
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(0, 0.05), (7, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.043243243243243246,
+   "mean_score_gain": 0.0898002085026127
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(0, 0.05), (9, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.021621621621621623,
+   "mean_score_gain": 0.06555470572708526
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(11, 0.2), (14, 0.05), (10, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.0918918918918919,
+   "mean_score_gain": 0.01686152513490281
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(11, 0.2), (5, 0.1), (12, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.14054054054054055,
+   "mean_score_gain": 0.03060924915199948
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(13, 0.1), (1, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.021621621621621623,
+   "mean_score_gain": 0.03781091119735739
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(13, 0.2), (14, 0.05), (8, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.08108108108108109,
+   "mean_score_gain": 0.016874877192584806
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(13, 0.2), (2, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.08648648648648649,
+   "mean_score_gain": 0.016834258021867367
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(13, 0.2), (9, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.016216216216216217,
+   "mean_score_gain": -0.0007919051281645582
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(2, 0.05), (4, 0.2), (1, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.11351351351351352,
+   "mean_score_gain": 0.09988670829009434
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(3, 0.2), (0, 0.1), (8, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.4756756756756757,
+   "mean_score_gain": 0.17128452036090458
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(4, 0.2), (2, 0.01), (12, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.07567567567567568,
+   "mean_score_gain": 0.038110344081310955
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(6, 0.2), (7, 0.01), (11, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.10810810810810811,
+   "mean_score_gain": 0.06519327673265247
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(7, 0.01), (12, 0.01), (1, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.016216216216216217,
+   "mean_score_gain": 0.023673825756379597
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(7, 0.1), (6, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.08648648648648649,
+   "mean_score_gain": 0.04539737966640896
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(7, 0.2), (9, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.0009021448264029529
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(8, 0.05), (10, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.9621621621621622,
+   "mean_score_gain": 0.016243544798186363
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(8, 0.2), (2, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.03783783783783784,
+   "mean_score_gain": 0.07250274922383292
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(8, 0.2), (4, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.12432432432432433,
+   "mean_score_gain": 0.07423409444456928
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(9, 0.2), (0, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.10810810810810811,
+   "mean_score_gain": 0.061883684277669576
+  },
+  {
+   "far_target": 0.05,
+   "kind": "stuck",
+   "strength": "1.0",
+   "n_trials": 20,
+   "valid_rate": 0.75,
+   "mean_fa_rate": 0.04297297297297298,
+   "mean_score_gain": 0.006885877501492874
+  },
+  {
+   "far_target": 0.05,
+   "kind": "var",
+   "strength": "2.0",
+   "n_trials": 20,
+   "valid_rate": 0.9,
+   "mean_fa_rate": 0.06783783783783784,
+   "mean_score_gain": 0.008131787332012419
+  },
+  {
+   "far_target": 0.05,
+   "kind": "var",
+   "strength": "5.0",
+   "n_trials": 20,
+   "valid_rate": 0.85,
+   "mean_fa_rate": 0.04864864864864865,
+   "mean_score_gain": 0.010430332210691033
+  }
+ ],
+ "cmhmil_SWaT": [
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.01",
+   "n_trials": 20,
+   "valid_rate": 0.45,
+   "mean_fa_rate": 0.21297297297297296,
+   "mean_score_gain": -0.0011342426751070889
+  },
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.05",
+   "n_trials": 20,
+   "valid_rate": 0.35,
+   "mean_fa_rate": 0.0872972972972973,
+   "mean_score_gain": -0.02753475607605651
+  },
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.1",
+   "n_trials": 20,
+   "valid_rate": 0.25,
+   "mean_fa_rate": 0.07702702702702703,
+   "mean_score_gain": -0.027058908295657602
+  },
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.2",
+   "n_trials": 20,
+   "valid_rate": 0.4,
+   "mean_fa_rate": 0.0654054054054054,
+   "mean_score_gain": -0.2908369404030964
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(0, 0.05), (35, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.15499958395957947
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(1, 0.01), (37, 0.2), (0, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.03734739497303963
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(1, 0.05), (27, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.3198874592781067
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(16, 0.2), (0, 0.1), (28, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -4.065785884857178
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(17, 0.2), (6, 0.01), (45, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.27858075499534607
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(26, 0.01), (44, 0.01), (3, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.021621621621621623,
+   "mean_score_gain": -0.025674981996417046
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(26, 0.1), (22, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.03872853145003319
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(26, 0.2), (46, 0.01), (39, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.3413797914981842
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(27, 0.05), (38, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.06486486486486487,
+   "mean_score_gain": -0.02732207253575325
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(27, 0.2), (35, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.36673110723495483
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(28, 0.2), (16, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.13364334404468536
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(28, 0.2), (47, 0.05), (34, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.06332418322563171
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(28, 0.2), (7, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.032432432432432434,
+   "mean_score_gain": 4.161693141213618e-06
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(36, 0.2), (1, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.010810810810810811,
+   "mean_score_gain": -0.18019065260887146
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(40, 0.2), (20, 0.1), (47, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.9508498907089233
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(41, 0.2), (47, 0.05), (38, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.7090820074081421
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(45, 0.2), (34, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 1.0,
+   "mean_score_gain": 0.031532760709524155
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(46, 0.1), (6, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.03246733173727989
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(46, 0.2), (7, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.19164210557937622
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(8, 0.05), (17, 0.2), (3, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.6110026240348816
+  },
+  {
+   "far_target": 0.01,
+   "kind": "stuck",
+   "strength": "1.0",
+   "n_trials": 20,
+   "valid_rate": 0.35,
+   "mean_fa_rate": 0.1345945945945946,
+   "mean_score_gain": -0.000357692582394975
+  },
+  {
+   "far_target": 0.01,
+   "kind": "var",
+   "strength": "2.0",
+   "n_trials": 20,
+   "valid_rate": 0.5,
+   "mean_fa_rate": 0.11756756756756756,
+   "mean_score_gain": 0.0007056608753487126
+  },
+  {
+   "far_target": 0.01,
+   "kind": "var",
+   "strength": "5.0",
+   "n_trials": 20,
+   "valid_rate": 0.3,
+   "mean_fa_rate": 0.2121621621621622,
+   "mean_score_gain": 0.0026885496261456867
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.01",
+   "n_trials": 20,
+   "valid_rate": 0.7,
+   "mean_fa_rate": 0.27054054054054055,
+   "mean_score_gain": -0.0011342426751070889
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.05",
+   "n_trials": 20,
+   "valid_rate": 0.45,
+   "mean_fa_rate": 0.12324324324324325,
+   "mean_score_gain": -0.02753475607605651
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.1",
+   "n_trials": 20,
+   "valid_rate": 0.35,
+   "mean_fa_rate": 0.0954054054054054,
+   "mean_score_gain": -0.027058908295657602
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.2",
+   "n_trials": 20,
+   "valid_rate": 0.4,
+   "mean_fa_rate": 0.0681081081081081,
+   "mean_score_gain": -0.2908369404030964
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(0, 0.05), (35, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.15499958395957947
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(1, 0.01), (37, 0.2), (0, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.08648648648648649,
+   "mean_score_gain": -0.03734739497303963
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(1, 0.05), (27, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.3198874592781067
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(16, 0.2), (0, 0.1), (28, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -4.065785884857178
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(17, 0.2), (6, 0.01), (45, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.27858075499534607
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(26, 0.01), (44, 0.01), (3, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.021621621621621623,
+   "mean_score_gain": -0.025674981996417046
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(26, 0.1), (22, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.03872853145003319
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(26, 0.2), (46, 0.01), (39, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.3413797914981842
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(27, 0.05), (38, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.15675675675675677,
+   "mean_score_gain": -0.02732207253575325
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(27, 0.2), (35, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.36673110723495483
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(28, 0.2), (16, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.13364334404468536
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(28, 0.2), (47, 0.05), (34, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.06332418322563171
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(28, 0.2), (7, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.11891891891891893,
+   "mean_score_gain": 4.161693141213618e-06
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(36, 0.2), (1, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.04864864864864865,
+   "mean_score_gain": -0.18019065260887146
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(40, 0.2), (20, 0.1), (47, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.9508498907089233
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(41, 0.2), (47, 0.05), (38, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.7090820074081421
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(45, 0.2), (34, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 1.0,
+   "mean_score_gain": 0.031532760709524155
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(46, 0.1), (6, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.03246733173727989
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(46, 0.2), (7, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.19164210557937622
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(8, 0.05), (17, 0.2), (3, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": -0.6110026240348816
+  },
+  {
+   "far_target": 0.05,
+   "kind": "stuck",
+   "strength": "1.0",
+   "n_trials": 20,
+   "valid_rate": 0.4,
+   "mean_fa_rate": 0.15162162162162163,
+   "mean_score_gain": -0.000357692582394975
+  },
+  {
+   "far_target": 0.05,
+   "kind": "var",
+   "strength": "2.0",
+   "n_trials": 20,
+   "valid_rate": 0.55,
+   "mean_fa_rate": 0.25189189189189193,
+   "mean_score_gain": 0.0007056608753487126
+  },
+  {
+   "far_target": 0.05,
+   "kind": "var",
+   "strength": "5.0",
+   "n_trials": 20,
+   "valid_rate": 0.4,
+   "mean_fa_rate": 0.24,
+   "mean_score_gain": 0.0026885496261456867
+  }
+ ],
+ "cmhmil_SMD": [
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.01",
+   "n_trials": 20,
+   "valid_rate": 0.2,
+   "mean_fa_rate": 0.033783783783783786,
+   "mean_score_gain": 0.030078162264544517
+  },
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.05",
+   "n_trials": 20,
+   "valid_rate": 0.5,
+   "mean_fa_rate": 0.1745945945945946,
+   "mean_score_gain": 0.9758163252845407
+  },
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.1",
+   "n_trials": 20,
+   "valid_rate": 0.65,
+   "mean_fa_rate": 0.3648648648648649,
+   "mean_score_gain": 4.60528755299747
+  },
+  {
+   "far_target": 0.01,
+   "kind": "drift",
+   "strength": "0.2",
+   "n_trials": 20,
+   "valid_rate": 0.75,
+   "mean_fa_rate": 0.5902702702702702,
+   "mean_score_gain": 84.30562425032258
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(0, 0.05), (23, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.41621621621621624,
+   "mean_score_gain": 3.4926321506500244
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(1, 0.01), (25, 0.2), (0, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.5081081081081081,
+   "mean_score_gain": 5.138167381286621
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(1, 0.05), (20, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.9027027027027027,
+   "mean_score_gain": 29.671180725097656
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(10, 0.2), (0, 0.1), (21, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.6756756756756757,
+   "mean_score_gain": 2.9166171550750732
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(11, 0.2), (5, 0.01), (33, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.2594594594594595,
+   "mean_score_gain": 1.2985060214996338
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(18, 0.01), (32, 0.01), (2, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.06486486486486487,
+   "mean_score_gain": 0.33194345235824585
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(18, 0.2), (19, 0.01), (27, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.745945945945946,
+   "mean_score_gain": 9.377654075622559
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(19, 0.1), (15, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.5027027027027027,
+   "mean_score_gain": 2.4551191329956055
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(19, 0.2), (23, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.8648648648648649,
+   "mean_score_gain": 21.09716796875
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(20, 0.05), (27, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.5243243243243243,
+   "mean_score_gain": 5.693174839019775
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(20, 0.2), (35, 0.05), (21, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.8108108108108109,
+   "mean_score_gain": 23.013065338134766
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(20, 0.2), (5, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.8918918918918919,
+   "mean_score_gain": 27.3981990814209
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(21, 0.2), (10, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 1.0,
+   "mean_score_gain": 17.15126609802246
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(24, 0.2), (1, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.7945945945945946,
+   "mean_score_gain": 29.815187454223633
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(30, 0.2), (13, 0.1), (35, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.8702702702702703,
+   "mean_score_gain": 48.06287384033203
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(31, 0.2), (35, 0.05), (27, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.9945945945945946,
+   "mean_score_gain": 111.04924011230469
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(33, 0.2), (22, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 0.0,
+   "mean_fa_rate": 0.0,
+   "mean_score_gain": 1.0932666063308716
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(34, 0.1), (3, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.5135135135135135,
+   "mean_score_gain": 4.798859119415283
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(34, 0.2), (5, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.7351351351351352,
+   "mean_score_gain": 12.077643394470215
+  },
+  {
+   "far_target": 0.01,
+   "kind": "joint_drift",
+   "strength": "[(6, 0.05), (12, 0.2), (3, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.7945945945945946,
+   "mean_score_gain": 36.711265563964844
+  },
+  {
+   "far_target": 0.01,
+   "kind": "stuck",
+   "strength": "1.0",
+   "n_trials": 20,
+   "valid_rate": 0.5,
+   "mean_fa_rate": 0.28864864864864864,
+   "mean_score_gain": 0.03988774722092785
+  },
+  {
+   "far_target": 0.01,
+   "kind": "var",
+   "strength": "2.0",
+   "n_trials": 20,
+   "valid_rate": 0.15,
+   "mean_fa_rate": 0.06594594594594594,
+   "mean_score_gain": 0.02928300349158235
+  },
+  {
+   "far_target": 0.01,
+   "kind": "var",
+   "strength": "5.0",
+   "n_trials": 20,
+   "valid_rate": 0.2,
+   "mean_fa_rate": 0.16108108108108107,
+   "mean_score_gain": 1.0227808059193193
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.01",
+   "n_trials": 20,
+   "valid_rate": 0.3,
+   "mean_fa_rate": 0.2497297297297297,
+   "mean_score_gain": 0.030078162264544517
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.05",
+   "n_trials": 20,
+   "valid_rate": 0.75,
+   "mean_fa_rate": 0.3716216216216216,
+   "mean_score_gain": 0.9758163252845407
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.1",
+   "n_trials": 20,
+   "valid_rate": 0.85,
+   "mean_fa_rate": 0.5816216216216217,
+   "mean_score_gain": 4.60528755299747
+  },
+  {
+   "far_target": 0.05,
+   "kind": "drift",
+   "strength": "0.2",
+   "n_trials": 20,
+   "valid_rate": 0.95,
+   "mean_fa_rate": 0.7408108108108108,
+   "mean_score_gain": 84.30562425032258
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(0, 0.05), (23, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.5783783783783784,
+   "mean_score_gain": 3.4926321506500244
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(1, 0.01), (25, 0.2), (0, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.6432432432432432,
+   "mean_score_gain": 5.138167381286621
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(1, 0.05), (20, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.9567567567567568,
+   "mean_score_gain": 29.671180725097656
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(10, 0.2), (0, 0.1), (21, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.8162162162162162,
+   "mean_score_gain": 2.9166171550750732
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(11, 0.2), (5, 0.01), (33, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.4594594594594595,
+   "mean_score_gain": 1.2985060214996338
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(18, 0.01), (32, 0.01), (2, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.9405405405405406,
+   "mean_score_gain": 0.33194345235824585
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(18, 0.2), (19, 0.01), (27, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.8756756756756757,
+   "mean_score_gain": 9.377654075622559
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(19, 0.1), (15, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.8162162162162162,
+   "mean_score_gain": 2.4551191329956055
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(19, 0.2), (23, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.9567567567567568,
+   "mean_score_gain": 21.09716796875
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(20, 0.05), (27, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.6864864864864865,
+   "mean_score_gain": 5.693174839019775
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(20, 0.2), (35, 0.05), (21, 0.01)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.8648648648648649,
+   "mean_score_gain": 23.013065338134766
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(20, 0.2), (5, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.9837837837837838,
+   "mean_score_gain": 27.3981990814209
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(21, 0.2), (10, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 1.0,
+   "mean_score_gain": 17.15126609802246
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(24, 0.2), (1, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.8486486486486486,
+   "mean_score_gain": 29.815187454223633
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(30, 0.2), (13, 0.1), (35, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.9297297297297298,
+   "mean_score_gain": 48.06287384033203
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(31, 0.2), (35, 0.05), (27, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 1.0,
+   "mean_score_gain": 111.04924011230469
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(33, 0.2), (22, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.1891891891891892,
+   "mean_score_gain": 1.0932666063308716
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(34, 0.1), (3, 0.05)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.6486486486486487,
+   "mean_score_gain": 4.798859119415283
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(34, 0.2), (5, 0.1)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 0.827027027027027,
+   "mean_score_gain": 12.077643394470215
+  },
+  {
+   "far_target": 0.05,
+   "kind": "joint_drift",
+   "strength": "[(6, 0.05), (12, 0.2), (3, 0.2)]",
+   "n_trials": 1,
+   "valid_rate": 1.0,
+   "mean_fa_rate": 1.0,
+   "mean_score_gain": 36.711265563964844
+  },
+  {
+   "far_target": 0.05,
+   "kind": "stuck",
+   "strength": "1.0",
+   "n_trials": 20,
+   "valid_rate": 0.65,
+   "mean_fa_rate": 0.43162162162162165,
+   "mean_score_gain": 0.03988774722092785
+  },
+  {
+   "far_target": 0.05,
+   "kind": "var",
+   "strength": "2.0",
+   "n_trials": 20,
+   "valid_rate": 0.3,
+   "mean_fa_rate": 0.2008108108108108,
+   "mean_score_gain": 0.02928300349158235
+  },
+  {
+   "far_target": 0.05,
+   "kind": "var",
+   "strength": "5.0",
+   "n_trials": 20,
+   "valid_rate": 0.55,
+   "mean_fa_rate": 0.3127027027027027,
+   "mean_score_gain": 1.0227808059193193
+  }
+ ]
+}

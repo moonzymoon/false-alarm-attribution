@@ -1,0 +1,187 @@
+{
+ "pca_SWaT_mix_r1": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.7586137532687721,
+   "layer2_top1": 0.8
+  }
+ },
+ "pca_SWaT_mix_r5": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.8824028508399796,
+   "layer2_top1": 0.9782608695652174
+  }
+ },
+ "pca_SWaT_mix_r6": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.9309736315200055,
+   "layer2_top1": 1.0
+  }
+ },
+ "pca_SWaT_mix_r7": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.7962841530054645,
+   "layer2_top1": 0.851063829787234
+  }
+ },
+ "ocsvm_SWaT_mix_r1": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.7725698759050317,
+   "layer2_top1": 0.927536231884058
+  }
+ },
+ "ocsvm_SWaT_mix_r2": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.807636748844376,
+   "layer2_top1": 1.0
+  }
+ },
+ "ocsvm_SWaT_mix_r5": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.8449293261973376,
+   "layer2_top1": 0.975
+  }
+ },
+ "ocsvm_SWaT_mix_r6": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.8884274720487875,
+   "layer2_top1": 0.95
+  }
+ },
+ "ocsvm_SWaT_mix_r7": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.8874363327674024,
+   "layer2_top1": 1.0
+  }
+ },
+ "pca_SMD_mix_r0": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.9296221020358951,
+   "layer2_top1": 0.975609756097561
+  }
+ },
+ "pca_SMD_mix_r2": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.6710608133316751,
+   "layer2_top1": 0.7045454545454546
+  }
+ },
+ "pca_SMD_mix_r3": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.7714162720619888,
+   "layer2_top1": 0.8333333333333334
+  }
+ },
+ "pca_SMD_mix_r6": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.7585492227979275,
+   "layer2_top1": 0.8723404255319149
+  }
+ },
+ "pca_SMD_mix_r7": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.8252584561074889,
+   "layer2_top1": 0.8888888888888888
+  }
+ },
+ "ocsvm_SMD_mix_r0": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.46419098143236076,
+   "layer2_top1": 1.0
+  }
+ },
+ "ocsvm_SMD_mix_r1": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.6234953047204891,
+   "layer2_top1": 0.95
+  }
+ },
+ "ocsvm_SMD_mix_r2": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.7111486486486487,
+   "layer2_top1": 0.8717948717948718
+  }
+ },
+ "ocsvm_SMD_mix_r3": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.7644935709451839,
+   "layer2_top1": 0.875
+  }
+ },
+ "ocsvm_SMD_mix_r6": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.47417004048582995,
+   "layer2_top1": 1.0
+  }
+ },
+ "ocsvm_SMD_mix_r7": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.817946505608283,
+   "layer2_top1": 1.0
+  }
+ },
+ "pca_PSM_mix_r0": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.7883525636649144,
+   "layer2_top1": 0.96
+  }
+ },
+ "pca_PSM_mix_r3": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.8392857142857143,
+   "layer2_top1": 0.967741935483871
+  }
+ },
+ "pca_PSM_mix_r4": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.8657892598911365,
+   "layer2_top1": 0.96
+  }
+ },
+ "pca_PSM_mix_r5": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.8861111111111111,
+   "layer2_top1": 0.9333333333333333
+  }
+ },
+ "ocsvm_PSM_mix_r0": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.48548812664907653,
+   "layer2_top1": 1.0
+  }
+ },
+ "ocsvm_PSM_mix_r1": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.45901639344262296,
+   "layer2_top1": 0.6666666666666666
+  }
+ },
+ "ocsvm_PSM_mix_r2": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.5546875,
+   "layer2_top1": 0.6666666666666666
+  }
+ },
+ "ocsvm_PSM_mix_r3": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.48476454293628807
+  }
+ },
+ "ocsvm_PSM_mix_r4": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.6537095501183899,
+   "layer2_top1": 0.0
+  }
+ },
+ "ocsvm_PSM_mix_r5": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.5633405056481979,
+   "layer2_top1": 1.0
+  }
+ },
+ "ocsvm_PSM_mix_r6": {
+  "RegimeGlobal": {
+   "layer1_macro_f1": 0.629416282642089,
+   "layer2_top1": 0.0
+  }
+ }
+}

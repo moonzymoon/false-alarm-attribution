@@ -1,0 +1,192 @@
+{
+ "A1": {
+  "iforest_SWaT": {
+   "score_shift_median": 2.097526418826101e-05,
+   "abs_shift_over_std": 0.11434441766055192,
+   "frac_newly_above_tau": 0.0033333333333333335
+  },
+  "iforest_SMD": {
+   "score_shift_median": 0.0012350076072295268,
+   "abs_shift_over_std": 0.07406310413274433,
+   "frac_newly_above_tau": 0.0033333333333333335
+  },
+  "cmhmil_SWaT": {
+   "score_shift_median": -6.616115570068359e-06,
+   "abs_shift_over_std": 0.013557899710326846,
+   "frac_newly_above_tau": 0.006666666666666667
+  },
+  "cmhmil_SMD": {
+   "score_shift_median": 0.00013887882232666016,
+   "abs_shift_over_std": 0.0177522813941771,
+   "frac_newly_above_tau": 0.013333333333333334
+  }
+ },
+ "A4": {
+  "iforest_SWaT": {
+   "channel": 41,
+   "monotone_frac": 0.9966666666666667,
+   "mean_score_curve": [
+    0.0397,
+    0.044,
+    0.0441,
+    0.0441,
+    0.0441,
+    0.0441,
+    0.0441,
+    0.0441,
+    0.0441
+   ]
+  },
+  "iforest_SMD": {
+   "channel": 31,
+   "monotone_frac": 0.9983333333333333,
+   "mean_score_curve": [
+    0.0179,
+    0.0241,
+    0.0314,
+    0.0369,
+    0.0409,
+    0.0427,
+    0.0434,
+    0.0443,
+    0.0455
+   ]
+  },
+  "cmhmil_SWaT": {
+   "channel": 41,
+   "monotone_frac": 0.20666666666666667,
+   "mean_score_curve": [
+    0.6148999929428101,
+    0.6241999864578247,
+    0.6263999938964844,
+    0.6201000213623047,
+    0.6054999828338623,
+    0.5824000239372253,
+    0.5508000254631042,
+    0.5105999708175659,
+    0.461899995803833
+   ]
+  },
+  "cmhmil_SMD": {
+   "channel": 31,
+   "monotone_frac": 0.9441666666666667,
+   "mean_score_curve": [
+    -1.44159996509552,
+    -1.3468999862670898,
+    -1.190999984741211,
+    -0.9775000214576721,
+    -0.6944000124931335,
+    -0.351500004529953,
+    0.06159999966621399,
+    0.5602999925613403,
+    1.1313999891281128
+   ]
+  }
+ },
+ "boundary": {
+  "SWaT": [
+   {
+    "regime": 1,
+    "kl_mean_ch": 0.2548431634039899,
+    "delta_reg_mean": 0.030148995791137435,
+    "delta_reg_pos_frac": 0.715,
+    "n": 400
+   },
+   {
+    "regime": 2,
+    "kl_mean_ch": 1.0242569044442669,
+    "delta_reg_mean": 0.024792147833763045,
+    "delta_reg_pos_frac": 0.85,
+    "n": 400
+   },
+   {
+    "regime": 5,
+    "kl_mean_ch": 1.322368598276154,
+    "delta_reg_mean": -0.035429686987724314,
+    "delta_reg_pos_frac": 0.0075,
+    "n": 400
+   },
+   {
+    "regime": 6,
+    "kl_mean_ch": 1.2364937144625878,
+    "delta_reg_mean": -0.013002933918144841,
+    "delta_reg_pos_frac": 0.295,
+    "n": 400
+   },
+   {
+    "regime": 7,
+    "kl_mean_ch": NaN,
+    "delta_reg_mean": -0.06818087776616742,
+    "delta_reg_pos_frac": 0.06227106227106227,
+    "n": 273
+   }
+  ],
+  "SMD": [
+   {
+    "regime": 1,
+    "kl_mean_ch": 0.9393396259688553,
+    "delta_reg_mean": -0.13249586935929059,
+    "delta_reg_pos_frac": 0.0,
+    "n": 400
+   },
+   {
+    "regime": 2,
+    "kl_mean_ch": 0.7894387583952045,
+    "delta_reg_mean": -0.14401062813988472,
+    "delta_reg_pos_frac": 0.0275,
+    "n": 400
+   },
+   {
+    "regime": 6,
+    "kl_mean_ch": 0.262770127548997,
+    "delta_reg_mean": -0.17827696033610568,
+    "delta_reg_pos_frac": 0.0,
+    "n": 400
+   },
+   {
+    "regime": 7,
+    "kl_mean_ch": 0.8670397179582442,
+    "delta_reg_mean": -0.18153238967466567,
+    "delta_reg_pos_frac": 0.0,
+    "n": 183
+   }
+  ],
+  "MetroPT3": [
+   {
+    "regime": 1,
+    "kl_mean_ch": 2.665778524002278,
+    "delta_reg_mean": -0.10197348048278063,
+    "delta_reg_pos_frac": 0.0,
+    "n": 400
+   },
+   {
+    "regime": 3,
+    "kl_mean_ch": 2.105060583953609,
+    "delta_reg_mean": -0.11116465077179707,
+    "delta_reg_pos_frac": 0.0,
+    "n": 400
+   },
+   {
+    "regime": 4,
+    "kl_mean_ch": 1.1246844876300395,
+    "delta_reg_mean": -0.14598660447888137,
+    "delta_reg_pos_frac": 0.0,
+    "n": 400
+   },
+   {
+    "regime": 6,
+    "kl_mean_ch": 2.0262205527168167,
+    "delta_reg_mean": -0.11911632036148362,
+    "delta_reg_pos_frac": 0.0,
+    "n": 400
+   },
+   {
+    "regime": 7,
+    "kl_mean_ch": 4.182012249396427,
+    "delta_reg_mean": -0.06526551795054106,
+    "delta_reg_pos_frac": 0.005,
+    "n": 400
+   }
+  ]
+ }
+}

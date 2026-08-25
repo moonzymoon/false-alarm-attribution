@@ -1,0 +1,18 @@
+{
+ "cmhmil_SWaT_var": {
+  "layer1_macro_f1": 0.47297297297297297,
+  "layer2_top1": 0.23931623931623933
+ },
+ "cmhmil_SMD_var": {
+  "layer1_macro_f1": 0.47836538461538464,
+  "layer2_top1": 0.8387096774193549
+ },
+ "cmhmil_PSM_var": {
+  "layer1_macro_f1": 0.48398576512455516,
+  "layer2_top1": 0.8517241379310345
+ },
+ "cmhmil_SMAP_var": {
+  "layer1_macro_f1": 0.49,
+  "layer2_top1": 1.0
+ }
+}
